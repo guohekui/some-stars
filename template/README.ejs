@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+<% stars.sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at)); %>
 <% for(let [language, repositories] of stars) { %>
 ## <%= language %>
   <% for(let repo of repositories) { %>
