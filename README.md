@@ -19,12 +19,14 @@
 *   [priseborough/InertialNav](https://github.com/priseborough/InertialNav) - Inertial Navigation Filter
 
 *   [leggedrobotics/graph\_msf](https://github.com/leggedrobotics/graph_msf) - A graph-based multi-sensor fusion framework. It can be used to fuse various relative or absolute measurments with IMU readings in real-time.
+    **factor-graph**,  **gnss**,  **imu**,  **lidar**,  **localization**,  **sensor-fusion**,  **state-estimation**,
 
 *   [chengyangkj/Ros\_Qt5\_Gui\_App](https://github.com/chengyangkj/Ros_Qt5_Gui_App) - ROS human computer interface based on Qt5(基于Qt5的ROS人机交互界面)
 
 *   [url-kaist/TRAVEL](https://github.com/url-kaist/TRAVEL) - Traversable ground and above-ground object segmentation using graph representation of 3D LiDAR scans
 
 *   [HKUST-Aerial-Robotics/G3Reg](https://github.com/HKUST-Aerial-Robotics/G3Reg) - A fast and robust global registration library for outdoor LiDAR point clouds.
+    **registration**,
 
 *   [ariarobotics/clipperp](https://github.com/ariarobotics/clipperp) - Fast maximal clique finder and robust registration library
 
@@ -33,20 +35,26 @@
 *   [hku-mars/btc\_descriptor](https://github.com/hku-mars/btc_descriptor) -
 
 *   [qdLMF/VINS-Fusion-GPU-BA](https://github.com/qdLMF/VINS-Fusion-GPU-BA) - A CUDA reimplementation of Bundle Adjustment for VINS-Fusion
+    **bundle-adjustment**,  **cuda**,  **gpu**,  **levenberg-marquardt**,  **non-linear-optimization**,  **slam**,  **state-estimation**,  **vins**,  **vins-fusion**,  **vio**,  **visual-inertial-odometry**,  **visual-slam**,
 
 *   [url-kaist/patchwork-plusplus-ros](https://github.com/url-kaist/patchwork-plusplus-ros) - ROS & ROS2 Implementation of Patchwork++
+    **3d-point-cloud**,  **ground**,  **ground-removal**,  **ground-segmentation**,  **lidar**,  **point-cloud**,  **ros**,  **segmentation**,
 
 *   [HKUST-Aerial-Robotics/Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) - A Robust and Efficient Trajectory Planner for Quadrotors
+    **aerial-robotics**,  **autonomous-navigation**,  **motion-planning**,  **uav**,
 
 *   [Wallong/VINS-GPS-Wheel](https://github.com/Wallong/VINS-GPS-Wheel) -
 
 *   [tum-vision/dvo\_slam](https://github.com/tum-vision/dvo_slam) - Dense Visual Odometry and SLAM
 
 *   [mpkuse/edge\_alignment](https://github.com/mpkuse/edge_alignment) - Ros package for Edge Alignment with Ceres solver
+    **ceres-solver**,  **visual-odometry**,
 
 *   [cvg/limap](https://github.com/cvg/limap) - A toolbox for mapping and localization with line features.
+    **3d-reconstruction**,  **bundle-adjustment**,  **line-detection**,  **line-mapping**,  **line-matchng**,  **multi-view-geometry**,  **vanishing-points**,  **visual-localization**,
 
 *   [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - 🚀 AirVO upgrades to AirSLAM 🚀
+    **odometry**,  **slam**,  **superglue**,  **superpoint**,  **visual-odometry**,  **visual-slam**,
 
 *   [linyicheng1/LET-NET](https://github.com/linyicheng1/LET-NET) - LET-NET: A lightweight CNN network for sparse corners extraction and tracking
 
@@ -57,10 +65,13 @@
 *   [jiangchaokang/3DSFLabelling](https://github.com/jiangchaokang/3DSFLabelling) - This repository is the latest model version corresponding to the paper 3DSFLabeling: Boosting 3D Scene Flow Estimation by Pseudo Auto Labeling.
 
 *   [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.
+    **3d-gaussian-splatting**,  **3dgs**,  **gaussian-splatting**,  **nerf**,  **neural-rendering**,
 
 *   [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
+    **computer-vision**,  **cvpr2024**,  **gaussian-splatting**,  **robotics**,  **slam**,
 
 *   [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
+    **advanced-driver-assistance-systems**,  **driver-assistance-systems**,  **robotics**,
 
 *   [ybarancan/TopologicalLaneGraph](https://github.com/ybarancan/TopologicalLaneGraph) - Official implementation of "Topology Preserving Local Road Network Estimation from Single Onboard Camera Image" (CVPR 22)
 
@@ -73,6 +84,7 @@
 *   [yuantianyuan01/StreamMapNet](https://github.com/yuantianyuan01/StreamMapNet) -
 
 *   [hustvl/MapTR](https://github.com/hustvl/MapTR) - \[ICLR'23 Spotlight & IJCV'24] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction
+    **autonomous-driving**,  **bev**,  **end-to-end**,  **iclr2023**,  **online-hdmap-construction**,  **real-time**,  **shape-representation**,  **transformer**,  **vectorized-hdmap**,
 
 *   [manymuch/CAMA](https://github.com/manymuch/CAMA) - Official Implementation of A Vision-Centric Approach for Static Map Element Annotation
 
@@ -81,6 +93,7 @@
 ## miscellaneous
 
 *   [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) - 💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩
+    **arxiv**,  **audio-driven**,  **paper**,  **synthesis**,  **talking-face-generation**,  **talking-head**,  **talking-head-video-generation**,
 
 *   [jinyummiao/map-in-mono-reloc](https://github.com/jinyummiao/map-in-mono-reloc) - a paper list of visual re-localization algorithms
 
