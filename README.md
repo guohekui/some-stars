@@ -16,6 +16,8 @@
 
 ## C++
 
+*   [i2Nav-WHU/LE-VINS](https://github.com/i2Nav-WHU/LE-VINS) - INS-Centric Visual-Inertial Navigation System With LiDAR Enhancement -
+
 *   [priseborough/InertialNav](https://github.com/priseborough/InertialNav) - Inertial Navigation Filter -
 
 *   [leggedrobotics/graph\_msf](https://github.com/leggedrobotics/graph_msf) - A graph-based multi-sensor fusion framework. It can be used to fuse various relative or absolute measurments with IMU readings in real-time. - <span style="color:red;">**factor-graph**</span>,  <span style="color:red;">**gnss**</span>,  <span style="color:red;">**imu**</span>,  <span style="color:red;">**lidar**</span>,  <span style="color:red;">**localization**</span>,  <span style="color:red;">**sensor-fusion**</span>,  <span style="color:red;">**state-estimation**</span>,
