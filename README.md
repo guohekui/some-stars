@@ -8,11 +8,16 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [C++](#c)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [C](#c-1)
+
+## Jupyter Notebook
+
+*   [mit-acl/ROMAN](https://github.com/mit-acl/ROMAN) - ROMAN is a view-invariant global localization method that maps open-set objects and uses the geometry, shape, and semantics of objects to find the transformation between a current pose and previously created object map. This enables loop closure between robots even when a scene is observed from opposite views. -
 
 ## C++
 
