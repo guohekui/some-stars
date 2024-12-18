@@ -17,9 +17,15 @@
 
 ## Jupyter Notebook
 
+*   [KTH-RPL/DynamicMap\_Benchmark](https://github.com/KTH-RPL/DynamicMap_Benchmark) - The First Dynamic Map Removal Benchmark | Included 8 SOTA methods | Continous updating - <span style="color:red;">**autonomous-driving**</span>,  <span style="color:red;">**benchmark**</span>,  <span style="color:red;">**dataset**</span>,  <span style="color:red;">**dynamic-point-removal**</span>,  <span style="color:red;">**mapping**</span>,  <span style="color:red;">**robotics**</span>,
+
 *   [mit-acl/ROMAN](https://github.com/mit-acl/ROMAN) - ROMAN is a view-invariant global localization method that maps open-set objects and uses the geometry, shape, and semantics of objects to find the transformation between a current pose and previously created object map. This enables loop closure between robots even when a scene is observed from opposite views. -
 
 ## C++
+
+*   [YixFeng/Block-Map-Based-Localization](https://github.com/YixFeng/Block-Map-Based-Localization) - \[ICRA'24] A localization system based on Block Maps (BMs) to reduce the computational load caused by maintaining large-scale maps -
+
+*   [zm0612/funny\_lidar\_slam](https://github.com/zm0612/funny_lidar_slam) - A real-time multifunctional Lidar SLAM package. -
 
 *   [i2Nav-WHU/LE-VINS](https://github.com/i2Nav-WHU/LE-VINS) - INS-Centric Visual-Inertial Navigation System With LiDAR Enhancement -
 
