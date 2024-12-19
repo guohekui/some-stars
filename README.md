@@ -8,20 +8,26 @@
 
 ## Table of Contents
 
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [C++](#c)
-*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
+*   [Jupyter Notebook](#jupyter-notebook)
+*   [Python](#python)
 *   [Java](#java)
 *   [C](#c-1)
 
-## Jupyter Notebook
-
-*   [KTH-RPL/DynamicMap\_Benchmark](https://github.com/KTH-RPL/DynamicMap_Benchmark) - The First Dynamic Map Removal Benchmark | Included 8 SOTA methods | Continous updating - <span style="color:red;">**autonomous-driving**</span>,  <span style="color:red;">**benchmark**</span>,  <span style="color:red;">**dataset**</span>,  <span style="color:red;">**dynamic-point-removal**</span>,  <span style="color:red;">**mapping**</span>,  <span style="color:red;">**robotics**</span>,
-
-*   [mit-acl/ROMAN](https://github.com/mit-acl/ROMAN) - ROMAN is a view-invariant global localization method that maps open-set objects and uses the geometry, shape, and semantics of objects to find the transformation between a current pose and previously created object map. This enables loop closure between robots even when a scene is observed from opposite views. -
-
 ## C++
+
+*   [robot-learning-freiburg/CURB-SG](https://github.com/robot-learning-freiburg/CURB-SG) - \[ICRA2024] Collaborative Dynamic 3D Scene Graphs for Automated Driving - <span style="color:red;">**collaborative-slam**</span>,  <span style="color:red;">**lidar-slam**</span>,  <span style="color:red;">**multi-agent-systems**</span>,  <span style="color:red;">**scene-graphs**</span>,
+
+*   [koide3/hdl\_graph\_slam](https://github.com/koide3/hdl_graph_slam) - 3D LIDAR-based Graph SLAM - <span style="color:red;">**hdl-graph-slam**</span>,  <span style="color:red;">**lidar**</span>,  <span style="color:red;">**point-cloud**</span>,  <span style="color:red;">**ros**</span>,  <span style="color:red;">**rslidar**</span>,  <span style="color:red;">**slam**</span>,  <span style="color:red;">**velodyne**</span>,
+
+*   [koide3/glim](https://github.com/koide3/glim) - GLIM: versatile and extensible range-based 3D localization and mapping framework - <span style="color:red;">**3d**</span>,  <span style="color:red;">**gpu**</span>,  <span style="color:red;">**imu**</span>,  <span style="color:red;">**lidar**</span>,  <span style="color:red;">**localization**</span>,  <span style="color:red;">**mapping**</span>,  <span style="color:red;">**rgb-d**</span>,  <span style="color:red;">**ros**</span>,  <span style="color:red;">**ros2**</span>,  <span style="color:red;">**slam**</span>,
+
+*   [engcang/FAST-LIO-Localization-SC-QN](https://github.com/engcang/FAST-LIO-Localization-SC-QN) - A Map-based localization implementation combining FAST-LIO2 as an odometry with Quatro + Nano-GICP as a map matching method, and with ScanContext as a loop candidate detection method - <span style="color:red;">**lidar**</span>,  <span style="color:red;">**lidar-inertial-odometry**</span>,  <span style="color:red;">**lidar-slam**</span>,  <span style="color:red;">**localization**</span>,  <span style="color:red;">**loop-closure**</span>,  <span style="color:red;">**odometry**</span>,  <span style="color:red;">**slam**</span>,
+
+*   [jaeyoungjo99/ELiMaLoc](https://github.com/jaeyoungjo99/ELiMaLoc) - EKF-based LiDAR-Inertial Map matching Localization - <span style="color:red;">**ekf-localization**</span>,  <span style="color:red;">**imu**</span>,  <span style="color:red;">**inertial-odometry**</span>,  <span style="color:red;">**mapmatching**</span>,  <span style="color:red;">**slam**</span>,
+
+*   [ethz-asl/COIN-LIO](https://github.com/ethz-asl/COIN-LIO) - 🪙 COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry (ICRA 2024) -
 
 *   [YixFeng/Block-Map-Based-Localization](https://github.com/YixFeng/Block-Map-Based-Localization) - \[ICRA'24] A localization system based on Block Maps (BMs) to reduce the computational load caused by maintaining large-scale maps -
 
@@ -63,6 +69,26 @@
 
 *   [linyicheng1/LET-NET](https://github.com/linyicheng1/LET-NET) - LET-NET: A lightweight CNN network for sparse corners extraction and tracking -
 
+## miscellaneous
+
+*   [JokerJohn/MS-Mapping](https://github.com/JokerJohn/MS-Mapping) - \[ICRA@40] MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System - <span style="color:red;">**gmm**</span>,  <span style="color:red;">**gtsam**</span>,  <span style="color:red;">**keyframe**</span>,  <span style="color:red;">**large-scale-mapping**</span>,  <span style="color:red;">**lidar**</span>,  <span style="color:red;">**lidar-mapping**</span>,  <span style="color:red;">**lidar-slam**</span>,  <span style="color:red;">**mapping**</span>,  <span style="color:red;">**multi-session**</span>,  <span style="color:red;">**pose-graph-optimization**</span>,  <span style="color:red;">**uncertainty-estimation**</span>,  <span style="color:red;">**uncertainty-propagation**</span>,  <span style="color:red;">**wasserstein-distance**</span>,
+
+*   [qxiaofan/awesome-slam-datasets](https://github.com/qxiaofan/awesome-slam-datasets) - SLAM常见数据集汇总 -
+
+*   [hwan0806/Awesome-LiDAR-Mapping](https://github.com/hwan0806/Awesome-LiDAR-Mapping) - Collection of Papers with Codes: LiDAR Odometry/SLAM, Dynamic Object Removal, and Multiple Map Merging -
+
+*   [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) - 💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩 - <span style="color:red;">**arxiv**</span>,  <span style="color:red;">**audio-driven**</span>,  <span style="color:red;">**paper**</span>,  <span style="color:red;">**synthesis**</span>,  <span style="color:red;">**talking-face-generation**</span>,  <span style="color:red;">**talking-head**</span>,  <span style="color:red;">**talking-head-video-generation**</span>,
+
+*   [jinyummiao/map-in-mono-reloc](https://github.com/jinyummiao/map-in-mono-reloc) - a paper list of visual re-localization algorithms -
+
+*   [Gatsby23/vins-wheels](https://github.com/Gatsby23/vins-wheels) - VIO system incorporating wheel encoders -
+
+## Jupyter Notebook
+
+*   [KTH-RPL/DynamicMap\_Benchmark](https://github.com/KTH-RPL/DynamicMap_Benchmark) - The First Dynamic Map Removal Benchmark | Included 8 SOTA methods | Continous updating - <span style="color:red;">**autonomous-driving**</span>,  <span style="color:red;">**benchmark**</span>,  <span style="color:red;">**dataset**</span>,  <span style="color:red;">**dynamic-point-removal**</span>,  <span style="color:red;">**mapping**</span>,  <span style="color:red;">**robotics**</span>,
+
+*   [mit-acl/ROMAN](https://github.com/mit-acl/ROMAN) - ROMAN is a view-invariant global localization method that maps open-set objects and uses the geometry, shape, and semantics of objects to find the transformation between a current pose and previously created object map. This enables loop closure between robots even when a scene is observed from opposite views. -
+
 ## Python
 
 *   [AmnonDrory/LidarRegistration](https://github.com/AmnonDrory/LidarRegistration) - Project page for "Stress-Testing Point Cloud Registration on Automotive LiDAR" by Amnon Drory, Shai Avidan and Raja Giryes -
@@ -90,14 +116,6 @@
 *   [manymuch/CAMA](https://github.com/manymuch/CAMA) - Official Implementation of A Vision-Centric Approach for Static Map Element Annotation -
 
 *   [manymuch/ground\_normal\_filter](https://github.com/manymuch/ground_normal_filter) - Official implementation of: Towards Accurate Ground Plane Normal Estimation from Ego-Motion -
-
-## miscellaneous
-
-*   [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) - 💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩 - <span style="color:red;">**arxiv**</span>,  <span style="color:red;">**audio-driven**</span>,  <span style="color:red;">**paper**</span>,  <span style="color:red;">**synthesis**</span>,  <span style="color:red;">**talking-face-generation**</span>,  <span style="color:red;">**talking-head**</span>,  <span style="color:red;">**talking-head-video-generation**</span>,
-
-*   [jinyummiao/map-in-mono-reloc](https://github.com/jinyummiao/map-in-mono-reloc) - a paper list of visual re-localization algorithms -
-
-*   [Gatsby23/vins-wheels](https://github.com/Gatsby23/vins-wheels) - VIO system incorporating wheel encoders -
 
 ## Java
 
