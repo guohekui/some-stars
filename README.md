@@ -13,6 +13,7 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
 *   [Java](#java)
+*   [HTML](#html)
 *   [C](#c-1)
 
 ## miscellaneous
@@ -99,8 +100,6 @@
 
 *   [jiangchaokang/3DSFLabelling](https://github.com/jiangchaokang/3DSFLabelling) - This repository is the latest model version corresponding to the paper 3DSFLabeling: Boosting 3D Scene Flow Estimation by Pseudo Auto Labeling. -
 
-*   [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months. - <span style="color:red;">**3d-gaussian-splatting**</span>,  <span style="color:red;">**3dgs**</span>,  <span style="color:red;">**gaussian-splatting**</span>,  <span style="color:red;">**nerf**</span>,  <span style="color:red;">**neural-rendering**</span>,
-
 *   [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024) - <span style="color:red;">**computer-vision**</span>,  <span style="color:red;">**cvpr2024**</span>,  <span style="color:red;">**gaussian-splatting**</span>,  <span style="color:red;">**robotics**</span>,  <span style="color:red;">**slam**</span>,
 
 *   [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars. - <span style="color:red;">**advanced-driver-assistance-systems**</span>,  <span style="color:red;">**driver-assistance-systems**</span>,  <span style="color:red;">**robotics**</span>,
@@ -124,6 +123,10 @@
 ## Java
 
 *   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 -
+
+## HTML
+
+*   [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months. - <span style="color:red;">**3d-gaussian-splatting**</span>,  <span style="color:red;">**3dgs**</span>,  <span style="color:red;">**gaussian-splatting**</span>,  <span style="color:red;">**nerf**</span>,  <span style="color:red;">**neural-rendering**</span>,
 
 ## C
 
