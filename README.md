@@ -9,9 +9,9 @@
 ## Table of Contents
 
 *   [miscellaneous](#miscellaneous)
+*   [Python](#python)
 *   [C++](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [Python](#python)
 *   [Java](#java)
 *   [HTML](#html)
 *   [C](#c-1)
@@ -19,8 +19,6 @@
 ## miscellaneous
 
 *   [MIT-SPARK/Kimera-Multi-Data](https://github.com/MIT-SPARK/Kimera-Multi-Data) - A large-scale multi-robot dataset for multi-robot SLAM -
-
-*   [LimHyungTae/HOV-SG](https://github.com/LimHyungTae/HOV-SG) - \[RSS2024] Official implementation of "Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation" -
 
 *   [JokerJohn/MS-Mapping](https://github.com/JokerJohn/MS-Mapping) - \[ICRA@40] MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System - <span style="color:red;">**gmm**</span>,  <span style="color:red;">**gtsam**</span>,  <span style="color:red;">**keyframe**</span>,  <span style="color:red;">**large-scale-mapping**</span>,  <span style="color:red;">**lidar**</span>,  <span style="color:red;">**lidar-mapping**</span>,  <span style="color:red;">**lidar-slam**</span>,  <span style="color:red;">**mapping**</span>,  <span style="color:red;">**multi-session**</span>,  <span style="color:red;">**pose-graph-optimization**</span>,  <span style="color:red;">**uncertainty-estimation**</span>,  <span style="color:red;">**uncertainty-propagation**</span>,  <span style="color:red;">**wasserstein-distance**</span>,
 
@@ -33,6 +31,34 @@
 *   [jinyummiao/map-in-mono-reloc](https://github.com/jinyummiao/map-in-mono-reloc) - a paper list of visual re-localization algorithms -
 
 *   [Gatsby23/vins-wheels](https://github.com/Gatsby23/vins-wheels) - VIO system incorporating wheel encoders -
+
+## Python
+
+*   [LimHyungTae/HOV-SG](https://github.com/LimHyungTae/HOV-SG) - \[RSS2024] Official implementation of "Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation" -
+
+*   [AmnonDrory/LidarRegistration](https://github.com/AmnonDrory/LidarRegistration) - Project page for "Stress-Testing Point Cloud Registration on Automotive LiDAR" by Amnon Drory, Shai Avidan and Raja Giryes -
+
+*   [jiangchaokang/3DSFLabelling](https://github.com/jiangchaokang/3DSFLabelling) - This repository is the latest model version corresponding to the paper 3DSFLabeling: Boosting 3D Scene Flow Estimation by Pseudo Auto Labeling. -
+
+*   [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024) - <span style="color:red;">**computer-vision**</span>,  <span style="color:red;">**cvpr2024**</span>,  <span style="color:red;">**gaussian-splatting**</span>,  <span style="color:red;">**robotics**</span>,  <span style="color:red;">**slam**</span>,
+
+*   [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars. - <span style="color:red;">**advanced-driver-assistance-systems**</span>,  <span style="color:red;">**driver-assistance-systems**</span>,  <span style="color:red;">**robotics**</span>,
+
+*   [ybarancan/TopologicalLaneGraph](https://github.com/ybarancan/TopologicalLaneGraph) - Official implementation of "Topology Preserving Local Road Network Estimation from Single Onboard Camera Image" (CVPR 22) -
+
+*   [ybarancan/STSU](https://github.com/ybarancan/STSU) - Official code for "Structured Bird’s-Eye-View Traffic Scene Understanding from Onboard Images" (ICCV 2021) -
+
+*   [hustvl/VMA](https://github.com/hustvl/VMA) - A general map auto annotation framework based on MapTR, with high flexibility in terms of spatial scale and element type -
+
+*   [er-muyue/BeMapNet](https://github.com/er-muyue/BeMapNet) -  -
+
+*   [yuantianyuan01/StreamMapNet](https://github.com/yuantianyuan01/StreamMapNet) -  -
+
+*   [hustvl/MapTR](https://github.com/hustvl/MapTR) - \[ICLR'23 Spotlight & IJCV'24] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction - <span style="color:red;">**autonomous-driving**</span>,  <span style="color:red;">**bev**</span>,  <span style="color:red;">**end-to-end**</span>,  <span style="color:red;">**iclr2023**</span>,  <span style="color:red;">**online-hdmap-construction**</span>,  <span style="color:red;">**real-time**</span>,  <span style="color:red;">**shape-representation**</span>,  <span style="color:red;">**transformer**</span>,  <span style="color:red;">**vectorized-hdmap**</span>,
+
+*   [manymuch/CAMA](https://github.com/manymuch/CAMA) - Official Implementation of A Vision-Centric Approach for Static Map Element Annotation -
+
+*   [manymuch/ground\_normal\_filter](https://github.com/manymuch/ground_normal_filter) - Official implementation of: Towards Accurate Ground Plane Normal Estimation from Ego-Motion -
 
 ## C++
 
@@ -93,32 +119,6 @@
 *   [KTH-RPL/DynamicMap\_Benchmark](https://github.com/KTH-RPL/DynamicMap_Benchmark) - The First Dynamic Map Removal Benchmark | Included 8 SOTA methods | Continous updating - <span style="color:red;">**autonomous-driving**</span>,  <span style="color:red;">**benchmark**</span>,  <span style="color:red;">**dataset**</span>,  <span style="color:red;">**dynamic-point-removal**</span>,  <span style="color:red;">**mapping**</span>,  <span style="color:red;">**robotics**</span>,
 
 *   [mit-acl/ROMAN](https://github.com/mit-acl/ROMAN) - ROMAN is a view-invariant global localization method that maps open-set objects and uses the geometry, shape, and semantics of objects to find the transformation between a current pose and previously created object map. This enables loop closure between robots even when a scene is observed from opposite views. -
-
-## Python
-
-*   [AmnonDrory/LidarRegistration](https://github.com/AmnonDrory/LidarRegistration) - Project page for "Stress-Testing Point Cloud Registration on Automotive LiDAR" by Amnon Drory, Shai Avidan and Raja Giryes -
-
-*   [jiangchaokang/3DSFLabelling](https://github.com/jiangchaokang/3DSFLabelling) - This repository is the latest model version corresponding to the paper 3DSFLabeling: Boosting 3D Scene Flow Estimation by Pseudo Auto Labeling. -
-
-*   [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024) - <span style="color:red;">**computer-vision**</span>,  <span style="color:red;">**cvpr2024**</span>,  <span style="color:red;">**gaussian-splatting**</span>,  <span style="color:red;">**robotics**</span>,  <span style="color:red;">**slam**</span>,
-
-*   [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars. - <span style="color:red;">**advanced-driver-assistance-systems**</span>,  <span style="color:red;">**driver-assistance-systems**</span>,  <span style="color:red;">**robotics**</span>,
-
-*   [ybarancan/TopologicalLaneGraph](https://github.com/ybarancan/TopologicalLaneGraph) - Official implementation of "Topology Preserving Local Road Network Estimation from Single Onboard Camera Image" (CVPR 22) -
-
-*   [ybarancan/STSU](https://github.com/ybarancan/STSU) - Official code for "Structured Bird’s-Eye-View Traffic Scene Understanding from Onboard Images" (ICCV 2021) -
-
-*   [hustvl/VMA](https://github.com/hustvl/VMA) - A general map auto annotation framework based on MapTR, with high flexibility in terms of spatial scale and element type -
-
-*   [er-muyue/BeMapNet](https://github.com/er-muyue/BeMapNet) -  -
-
-*   [yuantianyuan01/StreamMapNet](https://github.com/yuantianyuan01/StreamMapNet) -  -
-
-*   [hustvl/MapTR](https://github.com/hustvl/MapTR) - \[ICLR'23 Spotlight & IJCV'24] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction - <span style="color:red;">**autonomous-driving**</span>,  <span style="color:red;">**bev**</span>,  <span style="color:red;">**end-to-end**</span>,  <span style="color:red;">**iclr2023**</span>,  <span style="color:red;">**online-hdmap-construction**</span>,  <span style="color:red;">**real-time**</span>,  <span style="color:red;">**shape-representation**</span>,  <span style="color:red;">**transformer**</span>,  <span style="color:red;">**vectorized-hdmap**</span>,
-
-*   [manymuch/CAMA](https://github.com/manymuch/CAMA) - Official Implementation of A Vision-Centric Approach for Static Map Element Annotation -
-
-*   [manymuch/ground\_normal\_filter](https://github.com/manymuch/ground_normal_filter) - Official implementation of: Towards Accurate Ground Plane Normal Estimation from Ego-Motion -
 
 ## Java
 
