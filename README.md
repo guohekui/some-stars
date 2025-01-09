@@ -70,7 +70,7 @@
 
 *   [engcang/FAST-LIO-Localization-SC-QN](https://github.com/engcang/FAST-LIO-Localization-SC-QN) - A Map-based localization implementation combining FAST-LIO2 as an odometry with Quatro + Nano-GICP as a map matching method, and with ScanContext as a loop candidate detection method - <span style="color:red;">**lidar**</span>,  <span style="color:red;">**lidar-inertial-odometry**</span>,  <span style="color:red;">**lidar-slam**</span>,  <span style="color:red;">**localization**</span>,  <span style="color:red;">**loop-closure**</span>,  <span style="color:red;">**odometry**</span>,  <span style="color:red;">**slam**</span>,
 
-*   [jaeyoungjo99/ELiMaLoc](https://github.com/jaeyoungjo99/ELiMaLoc) - EKF-based LiDAR-Inertial Map matching Localization - <span style="color:red;">**ekf-localization**</span>,  <span style="color:red;">**imu**</span>,  <span style="color:red;">**inertial-odometry**</span>,  <span style="color:red;">**mapmatching**</span>,  <span style="color:red;">**slam**</span>,
+*   [jaeyoungjo99/ELiMaLoc](https://github.com/jaeyoungjo99/ELiMaLoc) - EKF-based LiDAR-Inertial Map matching Localization - <span style="color:red;">**ekf-localization**</span>,  <span style="color:red;">**imu**</span>,  <span style="color:red;">**inertial-odometry**</span>,  <span style="color:red;">**localization**</span>,  <span style="color:red;">**mapmatching**</span>,  <span style="color:red;">**slam**</span>,
 
 *   [ethz-asl/COIN-LIO](https://github.com/ethz-asl/COIN-LIO) - 🪙 COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry (ICRA 2024) -
 
