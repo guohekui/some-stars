@@ -36,6 +36,8 @@
 
 *   [LimHyungTae/HOV-SG](https://github.com/LimHyungTae/HOV-SG) - \[RSS2024] Official implementation of "Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation" -
 
+*   [mit-acl/ROMAN](https://github.com/mit-acl/ROMAN) - ROMAN is a view-invariant global localization method that maps open-set objects and uses the geometry, shape, and semantics of objects to find the transformation between a current pose and previously created object map. This enables loop closure between robots even when a scene is observed from opposite views. -
+
 *   [AmnonDrory/LidarRegistration](https://github.com/AmnonDrory/LidarRegistration) - Project page for "Stress-Testing Point Cloud Registration on Automotive LiDAR" by Amnon Drory, Shai Avidan and Raja Giryes -
 
 *   [jiangchaokang/3DSFLabelling](https://github.com/jiangchaokang/3DSFLabelling) - This repository is the latest model version corresponding to the paper 3DSFLabeling: Boosting 3D Scene Flow Estimation by Pseudo Auto Labeling. -
@@ -117,8 +119,6 @@
 ## Jupyter Notebook
 
 *   [KTH-RPL/DynamicMap\_Benchmark](https://github.com/KTH-RPL/DynamicMap_Benchmark) - The First Dynamic Map Removal Benchmark | Included 8 SOTA methods | Continous updating - <span style="color:red;">**autonomous-driving**</span>,  <span style="color:red;">**benchmark**</span>,  <span style="color:red;">**dataset**</span>,  <span style="color:red;">**dynamic-point-removal**</span>,  <span style="color:red;">**mapping**</span>,  <span style="color:red;">**robotics**</span>,
-
-*   [mit-acl/ROMAN](https://github.com/mit-acl/ROMAN) - ROMAN is a view-invariant global localization method that maps open-set objects and uses the geometry, shape, and semantics of objects to find the transformation between a current pose and previously created object map. This enables loop closure between robots even when a scene is observed from opposite views. -
 
 ## Java
 
