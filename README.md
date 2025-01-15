@@ -130,4 +130,4 @@
 
 ## C
 
-*   [sheng00125/LIV\_handhold](https://github.com/sheng00125/LIV_handhold) - An open-source hardware-synchronized handheld device for FAST-LIVO. -
+*   [xuankuzcr/LIV\_handhold](https://github.com/xuankuzcr/LIV_handhold) - An open-source hardware-synchronized handheld device for FAST-LIVO. -
