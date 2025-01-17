@@ -112,7 +112,7 @@
 
 *   [cvg/limap](https://github.com/cvg/limap) - A toolbox for mapping and localization with line features. - <span style="color:red;">**3d-reconstruction**</span>,  <span style="color:red;">**bundle-adjustment**</span>,  <span style="color:red;">**line-detection**</span>,  <span style="color:red;">**line-mapping**</span>,  <span style="color:red;">**line-matchng**</span>,  <span style="color:red;">**multi-view-geometry**</span>,  <span style="color:red;">**vanishing-points**</span>,  <span style="color:red;">**visual-localization**</span>,
 
-*   [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - 🚀 AirVO upgrades to AirSLAM 🚀 - <span style="color:red;">**odometry**</span>,  <span style="color:red;">**slam**</span>,  <span style="color:red;">**superglue**</span>,  <span style="color:red;">**superpoint**</span>,  <span style="color:red;">**visual-odometry**</span>,  <span style="color:red;">**visual-slam**</span>,
+*   [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - 🚀 AirVO upgrades to AirSLAM \[TRO]🚀 - <span style="color:red;">**odometry**</span>,  <span style="color:red;">**slam**</span>,  <span style="color:red;">**superglue**</span>,  <span style="color:red;">**superpoint**</span>,  <span style="color:red;">**visual-odometry**</span>,  <span style="color:red;">**visual-slam**</span>,
 
 *   [linyicheng1/LET-NET](https://github.com/linyicheng1/LET-NET) - LET-NET: A lightweight CNN network for sparse corners extraction and tracking -
 
