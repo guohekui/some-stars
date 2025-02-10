@@ -18,6 +18,8 @@
 
 ## miscellaneous
 
+*   [ROBOT-WSC/BEV-LSLAM](https://github.com/ROBOT-WSC/BEV-LSLAM) - BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment -
+
 *   [MIT-SPARK/Kimera-Multi-Data](https://github.com/MIT-SPARK/Kimera-Multi-Data) - A large-scale multi-robot dataset for multi-robot SLAM -
 
 *   [JokerJohn/MS-Mapping](https://github.com/JokerJohn/MS-Mapping) - \[ICRA@40] MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System - <span style="color:red;">**gmm**</span>,  <span style="color:red;">**gtsam**</span>,  <span style="color:red;">**keyframe**</span>,  <span style="color:red;">**large-scale-mapping**</span>,  <span style="color:red;">**lidar**</span>,  <span style="color:red;">**lidar-mapping**</span>,  <span style="color:red;">**lidar-slam**</span>,  <span style="color:red;">**mapping**</span>,  <span style="color:red;">**multi-session**</span>,  <span style="color:red;">**pose-graph-optimization**</span>,  <span style="color:red;">**uncertainty-estimation**</span>,  <span style="color:red;">**uncertainty-propagation**</span>,  <span style="color:red;">**wasserstein-distance**</span>,
