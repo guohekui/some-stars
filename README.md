@@ -9,14 +9,16 @@
 ## Table of Contents
 
 *   [C++](#c)
-*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
+*   [miscellaneous](#miscellaneous)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Java](#java)
 *   [HTML](#html)
 *   [C](#c-1)
 
 ## C++
+
+*   [792864625/AroundViewMonitor-China-Developer](https://github.com/792864625/AroundViewMonitor-China-Developer) - Around View Monitor Algorithm Pipeline -
 
 *   [KennyWGH/indt\_omp](https://github.com/KennyWGH/indt_omp) - 快速且优雅的 增量式NDT算法（iNDT）开源实现，基于ndt\_omp。A fast and elegant implementation of incremental NDT algorithm (iNDT-OMP) based on ndt\_omp.  - <span style="color:red;">**autonomous-driving**</span>,  <span style="color:red;">**ndt**</span>,  <span style="color:red;">**robotics**</span>,  <span style="color:red;">**slam**</span>,
 
@@ -72,25 +74,11 @@
 
 *   [linyicheng1/LET-NET](https://github.com/linyicheng1/LET-NET) - LET-NET: A lightweight CNN network for sparse corners extraction and tracking -
 
-## miscellaneous
-
-*   [ROBOT-WSC/BEV-LSLAM](https://github.com/ROBOT-WSC/BEV-LSLAM) - BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment -
-
-*   [MIT-SPARK/Kimera-Multi-Data](https://github.com/MIT-SPARK/Kimera-Multi-Data) - A large-scale multi-robot dataset for multi-robot SLAM -
-
-*   [JokerJohn/MS-Mapping](https://github.com/JokerJohn/MS-Mapping) - \[ICRA@40] MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System - <span style="color:red;">**gmm**</span>,  <span style="color:red;">**gtsam**</span>,  <span style="color:red;">**keyframe**</span>,  <span style="color:red;">**large-scale-mapping**</span>,  <span style="color:red;">**lidar**</span>,  <span style="color:red;">**lidar-mapping**</span>,  <span style="color:red;">**lidar-slam**</span>,  <span style="color:red;">**mapping**</span>,  <span style="color:red;">**multi-session**</span>,  <span style="color:red;">**pose-graph-optimization**</span>,  <span style="color:red;">**uncertainty-estimation**</span>,  <span style="color:red;">**uncertainty-propagation**</span>,  <span style="color:red;">**wasserstein-distance**</span>,
-
-*   [qxiaofan/awesome-slam-datasets](https://github.com/qxiaofan/awesome-slam-datasets) - SLAM常见数据集汇总 -
-
-*   [hwan0806/Awesome-LiDAR-Mapping](https://github.com/hwan0806/Awesome-LiDAR-Mapping) - Collection of Papers with Codes: LiDAR Odometry/SLAM, Dynamic Object Removal, and Multiple Map Merging -
-
-*   [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) - 💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩 - <span style="color:red;">**arxiv**</span>,  <span style="color:red;">**audio-driven**</span>,  <span style="color:red;">**paper**</span>,  <span style="color:red;">**synthesis**</span>,  <span style="color:red;">**talking-face-generation**</span>,  <span style="color:red;">**talking-head**</span>,  <span style="color:red;">**talking-head-video-generation**</span>,
-
-*   [jinyummiao/map-in-mono-reloc](https://github.com/jinyummiao/map-in-mono-reloc) - a paper list of visual re-localization algorithms -
-
-*   [Gatsby23/vins-wheels](https://github.com/Gatsby23/vins-wheels) - VIO system incorporating wheel encoders -
-
 ## Python
+
+*   [AndyHuang1995/Image-Contrast-Enhancement](https://github.com/AndyHuang1995/Image-Contrast-Enhancement) - Python implementation of "A New Image Contrast Enhancement Algorithm Using Exposure Fusion Framework", CAIP2017 - <span style="color:red;">**dynamic-histogram-equalization**</span>,  <span style="color:red;">**histogram-equalization**</span>,  <span style="color:red;">**image-contrast-enhancement**</span>,  <span style="color:red;">**image-enhancement**</span>,  <span style="color:red;">**low-light-image**</span>,  <span style="color:red;">**python**</span>,
+
+*   [abhishek-kumar41/contrast-enhancement-color-images](https://github.com/abhishek-kumar41/contrast-enhancement-color-images) - Contrast enhancement of color images including analysis of different color spaces -
 
 *   [LimHyungTae/HOV-SG](https://github.com/LimHyungTae/HOV-SG) - \[RSS2024] Official implementation of "Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation" -
 
@@ -119,6 +107,26 @@
 *   [manymuch/CAMA](https://github.com/manymuch/CAMA) - Official Implementation of A Vision-Centric Approach for Static Map Element Annotation -
 
 *   [manymuch/ground\_normal\_filter](https://github.com/manymuch/ground_normal_filter) - Official implementation of: Towards Accurate Ground Plane Normal Estimation from Ego-Motion -
+
+## miscellaneous
+
+*   [IF-A-CAT/LIR-LIVO](https://github.com/IF-A-CAT/LIR-LIVO) - LIR-LIVO: A Lightweight,Robust Lidar/Vision/Inertial Odometry with Illumination-Resilient Deep Features -
+
+*   [ROBOT-WSC/BEV-LSLAM](https://github.com/ROBOT-WSC/BEV-LSLAM) - BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment -
+
+*   [MIT-SPARK/Kimera-Multi-Data](https://github.com/MIT-SPARK/Kimera-Multi-Data) - A large-scale multi-robot dataset for multi-robot SLAM -
+
+*   [JokerJohn/MS-Mapping](https://github.com/JokerJohn/MS-Mapping) - \[ICRA@40] MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System - <span style="color:red;">**gmm**</span>,  <span style="color:red;">**gtsam**</span>,  <span style="color:red;">**keyframe**</span>,  <span style="color:red;">**large-scale-mapping**</span>,  <span style="color:red;">**lidar**</span>,  <span style="color:red;">**lidar-mapping**</span>,  <span style="color:red;">**lidar-slam**</span>,  <span style="color:red;">**mapping**</span>,  <span style="color:red;">**multi-session**</span>,  <span style="color:red;">**pose-graph-optimization**</span>,  <span style="color:red;">**uncertainty-estimation**</span>,  <span style="color:red;">**uncertainty-propagation**</span>,  <span style="color:red;">**wasserstein-distance**</span>,
+
+*   [qxiaofan/awesome-slam-datasets](https://github.com/qxiaofan/awesome-slam-datasets) - SLAM常见数据集汇总 -
+
+*   [hwan0806/Awesome-LiDAR-Mapping](https://github.com/hwan0806/Awesome-LiDAR-Mapping) - Collection of Papers with Codes: LiDAR Odometry/SLAM, Dynamic Object Removal, and Multiple Map Merging -
+
+*   [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) - 💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩 - <span style="color:red;">**arxiv**</span>,  <span style="color:red;">**audio-driven**</span>,  <span style="color:red;">**paper**</span>,  <span style="color:red;">**synthesis**</span>,  <span style="color:red;">**talking-face-generation**</span>,  <span style="color:red;">**talking-head**</span>,  <span style="color:red;">**talking-head-video-generation**</span>,
+
+*   [jinyummiao/map-in-mono-reloc](https://github.com/jinyummiao/map-in-mono-reloc) - a paper list of visual re-localization algorithms -
+
+*   [Gatsby23/vins-wheels](https://github.com/Gatsby23/vins-wheels) - VIO system incorporating wheel encoders -
 
 ## Jupyter Notebook
 
