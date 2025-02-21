@@ -56,6 +56,8 @@
 
 *   [792864625/AroundViewMonitor-China-Developer](https://github.com/792864625/AroundViewMonitor-China-Developer) - Around View Monitor Algorithm Pipeline -
 
+*   [IF-A-CAT/LIR-LIVO](https://github.com/IF-A-CAT/LIR-LIVO) - LIR-LIVO: A Lightweight,Robust Lidar/Vision/Inertial Odometry with Illumination-Resilient Deep Features -
+
 *   [KennyWGH/indt\_omp](https://github.com/KennyWGH/indt_omp) - 快速且优雅的 增量式NDT算法（iNDT）开源实现，基于ndt\_omp。A fast and elegant implementation of incremental NDT algorithm (iNDT-OMP) based on ndt\_omp.  - <span style="color:red;">**autonomous-driving**</span>,  <span style="color:red;">**ndt**</span>,  <span style="color:red;">**robotics**</span>,  <span style="color:red;">**slam**</span>,
 
 *   [robot-learning-freiburg/CURB-SG](https://github.com/robot-learning-freiburg/CURB-SG) - \[ICRA2024] Collaborative Dynamic 3D Scene Graphs for Automated Driving - <span style="color:red;">**collaborative-slam**</span>,  <span style="color:red;">**lidar-slam**</span>,  <span style="color:red;">**multi-agent-systems**</span>,  <span style="color:red;">**scene-graphs**</span>,
@@ -111,8 +113,6 @@
 *   [linyicheng1/LET-NET](https://github.com/linyicheng1/LET-NET) - LET-NET: A lightweight CNN network for sparse corners extraction and tracking -
 
 ## miscellaneous
-
-*   [IF-A-CAT/LIR-LIVO](https://github.com/IF-A-CAT/LIR-LIVO) - LIR-LIVO: A Lightweight,Robust Lidar/Vision/Inertial Odometry with Illumination-Resilient Deep Features -
 
 *   [ROBOT-WSC/BEV-LSLAM](https://github.com/ROBOT-WSC/BEV-LSLAM) - BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment -
 
