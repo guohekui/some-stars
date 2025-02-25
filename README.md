@@ -8,13 +8,31 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [C++](#c)
-*   [miscellaneous](#miscellaneous)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Java](#java)
 *   [HTML](#html)
 *   [C](#c-1)
+
+## miscellaneous
+
+*   [IRMVLab/CrossBEV-PR](https://github.com/IRMVLab/CrossBEV-PR) - Code for paper "CrossBEV-PR：Cross-modal Visual-LiDAR Place Recognization via BEV Feature Distillation" -
+
+*   [ROBOT-WSC/BEV-LSLAM](https://github.com/ROBOT-WSC/BEV-LSLAM) - BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment -
+
+*   [MIT-SPARK/Kimera-Multi-Data](https://github.com/MIT-SPARK/Kimera-Multi-Data) - A large-scale multi-robot dataset for multi-robot SLAM -
+
+*   [qxiaofan/awesome-slam-datasets](https://github.com/qxiaofan/awesome-slam-datasets) - SLAM常见数据集汇总 -
+
+*   [hwan0806/Awesome-LiDAR-Mapping](https://github.com/hwan0806/Awesome-LiDAR-Mapping) - Collection of Papers with Codes: LiDAR Odometry/SLAM, Dynamic Object Removal, and Multiple Map Merging -
+
+*   [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) - 💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩 - <span style="color:red;">**arxiv**</span>,  <span style="color:red;">**audio-driven**</span>,  <span style="color:red;">**paper**</span>,  <span style="color:red;">**synthesis**</span>,  <span style="color:red;">**talking-face-generation**</span>,  <span style="color:red;">**talking-head**</span>,  <span style="color:red;">**talking-head-video-generation**</span>,
+
+*   [jinyummiao/map-in-mono-reloc](https://github.com/jinyummiao/map-in-mono-reloc) - a paper list of visual re-localization algorithms -
+
+*   [Gatsby23/vins-wheels](https://github.com/Gatsby23/vins-wheels) - VIO system incorporating wheel encoders -
 
 ## Python
 
@@ -113,22 +131,6 @@
 *   [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - 🚀 AirVO upgrades to AirSLAM \[TRO]🚀 - <span style="color:red;">**odometry**</span>,  <span style="color:red;">**slam**</span>,  <span style="color:red;">**superglue**</span>,  <span style="color:red;">**superpoint**</span>,  <span style="color:red;">**visual-odometry**</span>,  <span style="color:red;">**visual-slam**</span>,
 
 *   [linyicheng1/LET-NET](https://github.com/linyicheng1/LET-NET) - LET-NET: A lightweight CNN network for sparse corners extraction and tracking -
-
-## miscellaneous
-
-*   [ROBOT-WSC/BEV-LSLAM](https://github.com/ROBOT-WSC/BEV-LSLAM) - BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment -
-
-*   [MIT-SPARK/Kimera-Multi-Data](https://github.com/MIT-SPARK/Kimera-Multi-Data) - A large-scale multi-robot dataset for multi-robot SLAM -
-
-*   [qxiaofan/awesome-slam-datasets](https://github.com/qxiaofan/awesome-slam-datasets) - SLAM常见数据集汇总 -
-
-*   [hwan0806/Awesome-LiDAR-Mapping](https://github.com/hwan0806/Awesome-LiDAR-Mapping) - Collection of Papers with Codes: LiDAR Odometry/SLAM, Dynamic Object Removal, and Multiple Map Merging -
-
-*   [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) - 💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩 - <span style="color:red;">**arxiv**</span>,  <span style="color:red;">**audio-driven**</span>,  <span style="color:red;">**paper**</span>,  <span style="color:red;">**synthesis**</span>,  <span style="color:red;">**talking-face-generation**</span>,  <span style="color:red;">**talking-head**</span>,  <span style="color:red;">**talking-head-video-generation**</span>,
-
-*   [jinyummiao/map-in-mono-reloc](https://github.com/jinyummiao/map-in-mono-reloc) - a paper list of visual re-localization algorithms -
-
-*   [Gatsby23/vins-wheels](https://github.com/Gatsby23/vins-wheels) - VIO system incorporating wheel encoders -
 
 ## Jupyter Notebook
 
