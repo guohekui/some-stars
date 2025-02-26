@@ -18,6 +18,8 @@
 
 ## miscellaneous
 
+*   [dongjae0107/ELite](https://github.com/dongjae0107/ELite) - \[ICRA 2025] ELite: Ephemerality meets LiDAR-based Lifelong Mapping -
+
 *   [IRMVLab/CrossBEV-PR](https://github.com/IRMVLab/CrossBEV-PR) - Code for paper "CrossBEV-PR：Cross-modal Visual-LiDAR Place Recognization via BEV Feature Distillation" -
 
 *   [ROBOT-WSC/BEV-LSLAM](https://github.com/ROBOT-WSC/BEV-LSLAM) - BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment -
