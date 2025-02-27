@@ -18,7 +18,9 @@
 
 ## miscellaneous
 
-*   [dongjae0107/ELite](https://github.com/dongjae0107/ELite) - \[ICRA 2025] ELite: Ephemerality meets LiDAR-based Lifelong Mapping -
+*   [kafeiyin00/UA-MPC](https://github.com/kafeiyin00/UA-MPC) - \[IEEE RAL'25 & IROS'25] UA-MPC: Uncertainty-Aware Model Predictive Control for Motorized LiDAR Odometry -
+
+*   [dongjae0107/ELite](https://github.com/dongjae0107/ELite) - \[ICRA 2025] ELite: Ephemerality meets LiDAR-based Lifelong Mapping - <span style="color:red;">**lifelong-mapping**</span>,  <span style="color:red;">**robotics**</span>,
 
 *   [IRMVLab/CrossBEV-PR](https://github.com/IRMVLab/CrossBEV-PR) - Code for paper "CrossBEV-PR：Cross-modal Visual-LiDAR Place Recognization via BEV Feature Distillation" -
 
