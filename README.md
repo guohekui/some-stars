@@ -24,8 +24,6 @@
 
 *   [IRMVLab/CrossBEV-PR](https://github.com/IRMVLab/CrossBEV-PR) - Code for paper "CrossBEV-PR：Cross-modal Visual-LiDAR Place Recognization via BEV Feature Distillation" -
 
-*   [ROBOT-WSC/BEV-LSLAM](https://github.com/ROBOT-WSC/BEV-LSLAM) - BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment -
-
 *   [MIT-SPARK/Kimera-Multi-Data](https://github.com/MIT-SPARK/Kimera-Multi-Data) - A large-scale multi-robot dataset for multi-robot SLAM -
 
 *   [qxiaofan/awesome-slam-datasets](https://github.com/qxiaofan/awesome-slam-datasets) - SLAM常见数据集汇总 -
@@ -47,6 +45,8 @@
 *   [IF-A-CAT/LIR-LIVO](https://github.com/IF-A-CAT/LIR-LIVO) - LIR-LIVO: A Lightweight,Robust Lidar/Vision/Inertial Odometry with Illumination-Resilient Deep Features -
 
 *   [KennyWGH/indt\_omp](https://github.com/KennyWGH/indt_omp) - 快速且优雅的 增量式NDT算法（iNDT）开源实现，基于ndt\_omp。A fast and elegant implementation of incremental NDT algorithm (iNDT-OMP) based on ndt\_omp.  - <span style="color:red;">**autonomous-driving**</span>,  <span style="color:red;">**ndt**</span>,  <span style="color:red;">**robotics**</span>,  <span style="color:red;">**slam**</span>,
+
+*   [ROBOT-WSC/BEV-LSLAM](https://github.com/ROBOT-WSC/BEV-LSLAM) - BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment -
 
 *   [robot-learning-freiburg/CURB-SG](https://github.com/robot-learning-freiburg/CURB-SG) - \[ICRA2024] Collaborative Dynamic 3D Scene Graphs for Automated Driving - <span style="color:red;">**collaborative-slam**</span>,  <span style="color:red;">**lidar-slam**</span>,  <span style="color:red;">**multi-agent-systems**</span>,  <span style="color:red;">**scene-graphs**</span>,
 
