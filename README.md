@@ -8,35 +8,17 @@
 
 ## Table of Contents
 
-*   [miscellaneous](#miscellaneous)
 *   [C++](#c)
+*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Java](#java)
 *   [HTML](#html)
 *   [C](#c-1)
 
-## miscellaneous
-
-*   [kafeiyin00/LiMo-Calib](https://github.com/kafeiyin00/LiMo-Calib) - LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System -
-
-*   [dongjae0107/ELite](https://github.com/dongjae0107/ELite) - \[ICRA 2025] ELite: Ephemerality meets LiDAR-based Lifelong Mapping - <span style="color:red;">**lifelong-mapping**</span>,  <span style="color:red;">**robotics**</span>,
-
-*   [IRMVLab/CrossBEV-PR](https://github.com/IRMVLab/CrossBEV-PR) - Code for paper "CrossBEV-PR：Cross-modal Visual-LiDAR Place Recognization via BEV Feature Distillation" -
-
-*   [MIT-SPARK/Kimera-Multi-Data](https://github.com/MIT-SPARK/Kimera-Multi-Data) - A large-scale multi-robot dataset for multi-robot SLAM -
-
-*   [qxiaofan/awesome-slam-datasets](https://github.com/qxiaofan/awesome-slam-datasets) - SLAM常见数据集汇总 -
-
-*   [hwan0806/Awesome-LiDAR-Mapping](https://github.com/hwan0806/Awesome-LiDAR-Mapping) - Collection of Papers with Codes: LiDAR Odometry/SLAM, Dynamic Object Removal, and Multiple Map Merging -
-
-*   [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) - 💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩 - <span style="color:red;">**arxiv**</span>,  <span style="color:red;">**audio-driven**</span>,  <span style="color:red;">**paper**</span>,  <span style="color:red;">**synthesis**</span>,  <span style="color:red;">**talking-face-generation**</span>,  <span style="color:red;">**talking-head**</span>,  <span style="color:red;">**talking-head-video-generation**</span>,
-
-*   [jinyummiao/map-in-mono-reloc](https://github.com/jinyummiao/map-in-mono-reloc) - a paper list of visual re-localization algorithms -
-
-*   [Gatsby23/vins-wheels](https://github.com/Gatsby23/vins-wheels) - VIO system incorporating wheel encoders -
-
 ## C++
+
+*   [Zhefan-Xu/LV-DOT](https://github.com/Zhefan-Xu/LV-DOT) - LV-DOT: LiDAR-Visual Dynamic Obstacle Detection and Tracking (C++/Python/ROS) - <span style="color:red;">**camera**</span>,  <span style="color:red;">**collision-avoidance**</span>,  <span style="color:red;">**lidar**</span>,  <span style="color:red;">**object-detection**</span>,  <span style="color:red;">**object-tracking**</span>,  <span style="color:red;">**perception**</span>,  <span style="color:red;">**robotics**</span>,  <span style="color:red;">**ros**</span>,
 
 *   [kafeiyin00/UA-MPC](https://github.com/kafeiyin00/UA-MPC) - \[IEEE RAL'25 & IROS'25] UA-MPC: Uncertainty-Aware Model Predictive Control for Motorized LiDAR Odometry -
 
@@ -101,6 +83,26 @@
 *   [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - 🚀 AirVO upgrades to AirSLAM \[TRO]🚀 - <span style="color:red;">**odometry**</span>,  <span style="color:red;">**slam**</span>,  <span style="color:red;">**superglue**</span>,  <span style="color:red;">**superpoint**</span>,  <span style="color:red;">**visual-odometry**</span>,  <span style="color:red;">**visual-slam**</span>,
 
 *   [linyicheng1/LET-NET](https://github.com/linyicheng1/LET-NET) - LET-NET: A lightweight CNN network for sparse corners extraction and tracking -
+
+## miscellaneous
+
+*   [kafeiyin00/LiMo-Calib](https://github.com/kafeiyin00/LiMo-Calib) - LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System -
+
+*   [dongjae0107/ELite](https://github.com/dongjae0107/ELite) - \[ICRA 2025] ELite: Ephemerality meets LiDAR-based Lifelong Mapping - <span style="color:red;">**lifelong-mapping**</span>,  <span style="color:red;">**robotics**</span>,
+
+*   [IRMVLab/CrossBEV-PR](https://github.com/IRMVLab/CrossBEV-PR) - Code for paper "CrossBEV-PR：Cross-modal Visual-LiDAR Place Recognization via BEV Feature Distillation" -
+
+*   [MIT-SPARK/Kimera-Multi-Data](https://github.com/MIT-SPARK/Kimera-Multi-Data) - A large-scale multi-robot dataset for multi-robot SLAM -
+
+*   [qxiaofan/awesome-slam-datasets](https://github.com/qxiaofan/awesome-slam-datasets) - SLAM常见数据集汇总 -
+
+*   [hwan0806/Awesome-LiDAR-Mapping](https://github.com/hwan0806/Awesome-LiDAR-Mapping) - Collection of Papers with Codes: LiDAR Odometry/SLAM, Dynamic Object Removal, and Multiple Map Merging -
+
+*   [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) - 💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩 - <span style="color:red;">**arxiv**</span>,  <span style="color:red;">**audio-driven**</span>,  <span style="color:red;">**paper**</span>,  <span style="color:red;">**synthesis**</span>,  <span style="color:red;">**talking-face-generation**</span>,  <span style="color:red;">**talking-head**</span>,  <span style="color:red;">**talking-head-video-generation**</span>,
+
+*   [jinyummiao/map-in-mono-reloc](https://github.com/jinyummiao/map-in-mono-reloc) - a paper list of visual re-localization algorithms -
+
+*   [Gatsby23/vins-wheels](https://github.com/Gatsby23/vins-wheels) - VIO system incorporating wheel encoders -
 
 ## Python
 
