@@ -18,6 +18,10 @@
 
 ## C++
 
+*   [chengwei0427/Adaptive-LIO](https://github.com/chengwei0427/Adaptive-LIO) - \[JIOT 2024] Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry -
+
+*   [PRBonn/MapClosures](https://github.com/PRBonn/MapClosures) - Effectively Detecting Loop Closures using Point Cloud Density Maps -
+
 *   [Zhefan-Xu/LV-DOT](https://github.com/Zhefan-Xu/LV-DOT) - LV-DOT: LiDAR-Visual Dynamic Obstacle Detection and Tracking (C++/Python/ROS) - <span style="color:red;">**camera**</span>,  <span style="color:red;">**collision-avoidance**</span>,  <span style="color:red;">**lidar**</span>,  <span style="color:red;">**object-detection**</span>,  <span style="color:red;">**object-tracking**</span>,  <span style="color:red;">**perception**</span>,  <span style="color:red;">**robotics**</span>,  <span style="color:red;">**ros**</span>,
 
 *   [kafeiyin00/UA-MPC](https://github.com/kafeiyin00/UA-MPC) - \[IEEE RAL'25 & IROS'25] UA-MPC: Uncertainty-Aware Model Predictive Control for Motorized LiDAR Odometry -
