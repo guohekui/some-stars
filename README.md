@@ -18,6 +18,10 @@
 
 ## C++
 
+*   [ouguangjun/Leg-KILO](https://github.com/ouguangjun/Leg-KILO) - Leg-KILO: Robust Kinematic-Inertial-Lidar Odometry for Dynamic Legged Robots -
+
+*   [IMRL/Night-Voyager](https://github.com/IMRL/Night-Voyager) -  -
+
 *   [chengwei0427/Adaptive-LIO](https://github.com/chengwei0427/Adaptive-LIO) - \[JIOT 2024] Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry -
 
 *   [PRBonn/MapClosures](https://github.com/PRBonn/MapClosures) - Effectively Detecting Loop Closures using Point Cloud Density Maps -
@@ -89,6 +93,8 @@
 *   [linyicheng1/LET-NET](https://github.com/linyicheng1/LET-NET) - LET-NET: A lightweight CNN network for sparse corners extraction and tracking -
 
 ## miscellaneous
+
+*   [ZJU-FAST-Lab/seb\_naver](https://github.com/ZJU-FAST-Lab/seb_naver) - SEB-Naver: A SE(2)-based Local Navigation Framework for Car-like Robots on Uneven Terrain -
 
 *   [kafeiyin00/LiMo-Calib](https://github.com/kafeiyin00/LiMo-Calib) - LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System -
 
