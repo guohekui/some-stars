@@ -18,6 +18,10 @@
 
 ## C++
 
+*   [url-kaist/TRG-planner](https://github.com/url-kaist/TRG-planner) - TRG-planner: Traversal Risk Graph-Based Path Planning in Unstructured Environments for Safe and Efficient Navigation (RA-L 2025) -
+
+*   [dcmlr/groundgrid](https://github.com/dcmlr/groundgrid) - Source code for the article "GroundGrid: LiDAR Point Cloud Ground Segmentation and Terrain Estimation" - <span style="color:red;">**3d-lidar**</span>,  <span style="color:red;">**autonomous-car**</span>,  <span style="color:red;">**autonomous-driving**</span>,  <span style="color:red;">**autonomous-vehicles**</span>,  <span style="color:red;">**grid-map**</span>,  <span style="color:red;">**ground-detection**</span>,  <span style="color:red;">**ground-removal**</span>,  <span style="color:red;">**ground-segmentation**</span>,  <span style="color:red;">**lidar**</span>,  <span style="color:red;">**point-cloud**</span>,  <span style="color:red;">**robotics**</span>,  <span style="color:red;">**ros**</span>,  <span style="color:red;">**ros-noetic**</span>,  <span style="color:red;">**terrain-mapping**</span>,
+
 *   [ouguangjun/Leg-KILO](https://github.com/ouguangjun/Leg-KILO) - Leg-KILO: Robust Kinematic-Inertial-Lidar Odometry for Dynamic Legged Robots -
 
 *   [ZJU-FAST-Lab/seb\_naver](https://github.com/ZJU-FAST-Lab/seb_naver) - SEB-Naver: A SE(2)-based Local Navigation Framework for Car-like Robots on Uneven Terrain -
