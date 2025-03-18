@@ -136,7 +136,7 @@
 
 *   [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024) - <span style="color:red;">**computer-vision**</span>,  <span style="color:red;">**cvpr2024**</span>,  <span style="color:red;">**gaussian-splatting**</span>,  <span style="color:red;">**robotics**</span>,  <span style="color:red;">**slam**</span>,
 
-*   [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars. - <span style="color:red;">**advanced-driver-assistance-systems**</span>,  <span style="color:red;">**driver-assistance-systems**</span>,  <span style="color:red;">**robotics**</span>,
+*   [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. - <span style="color:red;">**advanced-driver-assistance-systems**</span>,  <span style="color:red;">**driver-assistance-systems**</span>,  <span style="color:red;">**robotics**</span>,
 
 *   [ybarancan/TopologicalLaneGraph](https://github.com/ybarancan/TopologicalLaneGraph) - Official implementation of "Topology Preserving Local Road Network Estimation from Single Onboard Camera Image" (CVPR 22) -
 
