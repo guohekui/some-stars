@@ -170,4 +170,4 @@
 
 ## C
 
-*   [xuankuzcr/LIV\_handhold](https://github.com/xuankuzcr/LIV_handhold) - Hardware-synchronized device for FAST-LIVO (handheld & drone). -
+*   [xuankuzcr/LIV\_handhold](https://github.com/xuankuzcr/LIV_handhold) - Hardware-synchronized device for FAST-LIVO (Handheld & UAV). -
