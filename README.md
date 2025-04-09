@@ -17,6 +17,8 @@
 
 ## miscellaneous
 
+*   [M-Evanovic/LL-Localizer](https://github.com/M-Evanovic/LL-Localizer) - LL-Localizer: A Life-Long Localization System based on Dynamic i-Octree -
+
 *   [NSN-Hello/GeoFlow-SLAM](https://github.com/NSN-Hello/GeoFlow-SLAM) - GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics -
 
 *   [kafeiyin00/LiMo-Calib](https://github.com/kafeiyin00/LiMo-Calib) - LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System -
