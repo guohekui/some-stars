@@ -8,76 +8,16 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
-*   [C++](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [C](#c-1)
 
-## miscellaneous
-
-*   [M-Evanovic/LL-Localizer](https://github.com/M-Evanovic/LL-Localizer) - LL-Localizer: A Life-Long Localization System based on Dynamic i-Octree -
-
-*   [NSN-Hello/GeoFlow-SLAM](https://github.com/NSN-Hello/GeoFlow-SLAM) - GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics -
-
-*   [kafeiyin00/LiMo-Calib](https://github.com/kafeiyin00/LiMo-Calib) - LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System -
-
-*   [dongjae0107/ELite](https://github.com/dongjae0107/ELite) - \[ICRA 2025] ELite: Ephemerality meets LiDAR-based Lifelong Mapping - <span style="color:red;">**lifelong-mapping**</span>,  <span style="color:red;">**robotics**</span>,
-
-*   [IRMVLab/CrossBEV-PR](https://github.com/IRMVLab/CrossBEV-PR) - Code for paper "CrossBEV-PR：Cross-modal Visual-LiDAR Place Recognization via BEV Feature Distillation" -
-
-*   [MIT-SPARK/Kimera-Multi-Data](https://github.com/MIT-SPARK/Kimera-Multi-Data) - A large-scale multi-robot dataset for multi-robot SLAM -
-
-*   [qxiaofan/awesome-slam-datasets](https://github.com/qxiaofan/awesome-slam-datasets) - SLAM常见数据集汇总 -
-
-*   [hwan0806/Awesome-LiDAR-Mapping](https://github.com/hwan0806/Awesome-LiDAR-Mapping) - Collection of Papers with Codes: LiDAR Odometry/SLAM, Dynamic Object Removal, and Multiple Map Merging -
-
-*   [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) - 💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩 - <span style="color:red;">**arxiv**</span>,  <span style="color:red;">**audio-driven**</span>,  <span style="color:red;">**paper**</span>,  <span style="color:red;">**synthesis**</span>,  <span style="color:red;">**talking-face-generation**</span>,  <span style="color:red;">**talking-head**</span>,  <span style="color:red;">**talking-head-video-generation**</span>,
-
-*   [jinyummiao/map-in-mono-reloc](https://github.com/jinyummiao/map-in-mono-reloc) - a paper list of visual re-localization algorithms -
-
-*   [Gatsby23/vins-wheels](https://github.com/Gatsby23/vins-wheels) - VIO system incorporating wheel encoders -
-
-## Python
-
-*   [PRBonn/kiss-slam](https://github.com/PRBonn/kiss-slam) - A LiDAR SLAM system that just works - <span style="color:red;">**lidar**</span>,  <span style="color:red;">**lidar-slam**</span>,  <span style="color:red;">**mapping**</span>,  <span style="color:red;">**perception**</span>,  <span style="color:red;">**robotics**</span>,  <span style="color:red;">**slam**</span>,
-
-*   [hovsg/HOV-SG](https://github.com/hovsg/HOV-SG) - \[RSS2024] Official implementation of "Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation" - <span style="color:red;">**3d-scene-graph**</span>,  <span style="color:red;">**natural-language-understanding**</span>,  <span style="color:red;">**open-vocabulary**</span>,  <span style="color:red;">**robot-navigation**</span>,  <span style="color:red;">**robot-planning**</span>,
-
-*   [AndyHuang1995/Image-Contrast-Enhancement](https://github.com/AndyHuang1995/Image-Contrast-Enhancement) - Python implementation of "A New Image Contrast Enhancement Algorithm Using Exposure Fusion Framework", CAIP2017 - <span style="color:red;">**dynamic-histogram-equalization**</span>,  <span style="color:red;">**histogram-equalization**</span>,  <span style="color:red;">**image-contrast-enhancement**</span>,  <span style="color:red;">**image-enhancement**</span>,  <span style="color:red;">**low-light-image**</span>,  <span style="color:red;">**python**</span>,
-
-*   [abhishek-kumar41/contrast-enhancement-color-images](https://github.com/abhishek-kumar41/contrast-enhancement-color-images) - Contrast enhancement of color images including analysis of different color spaces -
-
-*   [LimHyungTae/HOV-SG](https://github.com/LimHyungTae/HOV-SG) - \[RSS2024] Official implementation of "Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation" -
-
-*   [mit-acl/ROMAN](https://github.com/mit-acl/ROMAN) - ROMAN is a view-invariant global localization method that maps open-set objects and uses the geometry, shape, and semantics of objects to find the transformation between a current pose and previously created object map. This enables loop closure between robots even when a scene is observed from opposite views. -
-
-*   [AmnonDrory/LidarRegistration](https://github.com/AmnonDrory/LidarRegistration) - Project page for "Stress-Testing Point Cloud Registration on Automotive LiDAR" by Amnon Drory, Shai Avidan and Raja Giryes -
-
-*   [jiangchaokang/3DSFLabelling](https://github.com/jiangchaokang/3DSFLabelling) - This repository is the latest model version corresponding to the paper 3DSFLabeling: Boosting 3D Scene Flow Estimation by Pseudo Auto Labeling. -
-
-*   [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024) - <span style="color:red;">**computer-vision**</span>,  <span style="color:red;">**cvpr2024**</span>,  <span style="color:red;">**gaussian-splatting**</span>,  <span style="color:red;">**robotics**</span>,  <span style="color:red;">**slam**</span>,
-
-*   [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. - <span style="color:red;">**advanced-driver-assistance-systems**</span>,  <span style="color:red;">**driver-assistance-systems**</span>,  <span style="color:red;">**robotics**</span>,
-
-*   [ybarancan/TopologicalLaneGraph](https://github.com/ybarancan/TopologicalLaneGraph) - Official implementation of "Topology Preserving Local Road Network Estimation from Single Onboard Camera Image" (CVPR 22) -
-
-*   [ybarancan/STSU](https://github.com/ybarancan/STSU) - Official code for "Structured Bird’s-Eye-View Traffic Scene Understanding from Onboard Images" (ICCV 2021) -
-
-*   [hustvl/VMA](https://github.com/hustvl/VMA) - A general map auto annotation framework based on MapTR, with high flexibility in terms of spatial scale and element type -
-
-*   [er-muyue/BeMapNet](https://github.com/er-muyue/BeMapNet) -  -
-
-*   [yuantianyuan01/StreamMapNet](https://github.com/yuantianyuan01/StreamMapNet) -  -
-
-*   [hustvl/MapTR](https://github.com/hustvl/MapTR) - \[ICLR'23 Spotlight & IJCV'24] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction - <span style="color:red;">**autonomous-driving**</span>,  <span style="color:red;">**bev**</span>,  <span style="color:red;">**end-to-end**</span>,  <span style="color:red;">**iclr2023**</span>,  <span style="color:red;">**online-hdmap-construction**</span>,  <span style="color:red;">**real-time**</span>,  <span style="color:red;">**shape-representation**</span>,  <span style="color:red;">**transformer**</span>,  <span style="color:red;">**vectorized-hdmap**</span>,
-
-*   [manymuch/CAMA](https://github.com/manymuch/CAMA) - Official Implementation of A Vision-Centric Approach for Static Map Element Annotation -
-
-*   [manymuch/ground\_normal\_filter](https://github.com/manymuch/ground_normal_filter) - Official implementation of: Towards Accurate Ground Plane Normal Estimation from Ego-Motion -
-
 ## C++
+
+*   [superxslam/SuperOdom](https://github.com/superxslam/SuperOdom) -  -
 
 *   [url-kaist/TRG-planner](https://github.com/url-kaist/TRG-planner) - TRG-planner: Traversal Risk Graph-Based Path Planning in Unstructured Environments for Safe and Efficient Navigation (RA-L 2025) -
 
@@ -158,6 +98,68 @@
 *   [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - 🚀 AirVO upgrades to AirSLAM \[TRO]🚀 - <span style="color:red;">**odometry**</span>,  <span style="color:red;">**slam**</span>,  <span style="color:red;">**superglue**</span>,  <span style="color:red;">**superpoint**</span>,  <span style="color:red;">**visual-odometry**</span>,  <span style="color:red;">**visual-slam**</span>,
 
 *   [linyicheng1/LET-NET](https://github.com/linyicheng1/LET-NET) - LET-NET: A lightweight CNN network for sparse corners extraction and tracking -
+
+## miscellaneous
+
+*   [M-Evanovic/LL-Localizer](https://github.com/M-Evanovic/LL-Localizer) - LL-Localizer: A Life-Long Localization System based on Dynamic i-Octree -
+
+*   [NSN-Hello/GeoFlow-SLAM](https://github.com/NSN-Hello/GeoFlow-SLAM) - GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics -
+
+*   [kafeiyin00/LiMo-Calib](https://github.com/kafeiyin00/LiMo-Calib) - LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System -
+
+*   [dongjae0107/ELite](https://github.com/dongjae0107/ELite) - \[ICRA 2025] ELite: Ephemerality meets LiDAR-based Lifelong Mapping - <span style="color:red;">**lifelong-mapping**</span>,  <span style="color:red;">**robotics**</span>,
+
+*   [IRMVLab/CrossBEV-PR](https://github.com/IRMVLab/CrossBEV-PR) - Code for paper "CrossBEV-PR：Cross-modal Visual-LiDAR Place Recognization via BEV Feature Distillation" -
+
+*   [MIT-SPARK/Kimera-Multi-Data](https://github.com/MIT-SPARK/Kimera-Multi-Data) - A large-scale multi-robot dataset for multi-robot SLAM -
+
+*   [qxiaofan/awesome-slam-datasets](https://github.com/qxiaofan/awesome-slam-datasets) - SLAM常见数据集汇总 -
+
+*   [hwan0806/Awesome-LiDAR-Mapping](https://github.com/hwan0806/Awesome-LiDAR-Mapping) - Collection of Papers with Codes: LiDAR Odometry/SLAM, Dynamic Object Removal, and Multiple Map Merging -
+
+*   [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) - 💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩 - <span style="color:red;">**arxiv**</span>,  <span style="color:red;">**audio-driven**</span>,  <span style="color:red;">**paper**</span>,  <span style="color:red;">**synthesis**</span>,  <span style="color:red;">**talking-face-generation**</span>,  <span style="color:red;">**talking-head**</span>,  <span style="color:red;">**talking-head-video-generation**</span>,
+
+*   [jinyummiao/map-in-mono-reloc](https://github.com/jinyummiao/map-in-mono-reloc) - a paper list of visual re-localization algorithms -
+
+*   [Gatsby23/vins-wheels](https://github.com/Gatsby23/vins-wheels) - VIO system incorporating wheel encoders -
+
+## Python
+
+*   [PRBonn/kiss-slam](https://github.com/PRBonn/kiss-slam) - A LiDAR SLAM system that just works - <span style="color:red;">**lidar**</span>,  <span style="color:red;">**lidar-slam**</span>,  <span style="color:red;">**mapping**</span>,  <span style="color:red;">**perception**</span>,  <span style="color:red;">**robotics**</span>,  <span style="color:red;">**slam**</span>,
+
+*   [hovsg/HOV-SG](https://github.com/hovsg/HOV-SG) - \[RSS2024] Official implementation of "Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation" - <span style="color:red;">**3d-scene-graph**</span>,  <span style="color:red;">**natural-language-understanding**</span>,  <span style="color:red;">**open-vocabulary**</span>,  <span style="color:red;">**robot-navigation**</span>,  <span style="color:red;">**robot-planning**</span>,
+
+*   [AndyHuang1995/Image-Contrast-Enhancement](https://github.com/AndyHuang1995/Image-Contrast-Enhancement) - Python implementation of "A New Image Contrast Enhancement Algorithm Using Exposure Fusion Framework", CAIP2017 - <span style="color:red;">**dynamic-histogram-equalization**</span>,  <span style="color:red;">**histogram-equalization**</span>,  <span style="color:red;">**image-contrast-enhancement**</span>,  <span style="color:red;">**image-enhancement**</span>,  <span style="color:red;">**low-light-image**</span>,  <span style="color:red;">**python**</span>,
+
+*   [abhishek-kumar41/contrast-enhancement-color-images](https://github.com/abhishek-kumar41/contrast-enhancement-color-images) - Contrast enhancement of color images including analysis of different color spaces -
+
+*   [LimHyungTae/HOV-SG](https://github.com/LimHyungTae/HOV-SG) - \[RSS2024] Official implementation of "Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation" -
+
+*   [mit-acl/ROMAN](https://github.com/mit-acl/ROMAN) - ROMAN is a view-invariant global localization method that maps open-set objects and uses the geometry, shape, and semantics of objects to find the transformation between a current pose and previously created object map. This enables loop closure between robots even when a scene is observed from opposite views. -
+
+*   [AmnonDrory/LidarRegistration](https://github.com/AmnonDrory/LidarRegistration) - Project page for "Stress-Testing Point Cloud Registration on Automotive LiDAR" by Amnon Drory, Shai Avidan and Raja Giryes -
+
+*   [jiangchaokang/3DSFLabelling](https://github.com/jiangchaokang/3DSFLabelling) - This repository is the latest model version corresponding to the paper 3DSFLabeling: Boosting 3D Scene Flow Estimation by Pseudo Auto Labeling. -
+
+*   [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024) - <span style="color:red;">**computer-vision**</span>,  <span style="color:red;">**cvpr2024**</span>,  <span style="color:red;">**gaussian-splatting**</span>,  <span style="color:red;">**robotics**</span>,  <span style="color:red;">**slam**</span>,
+
+*   [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. - <span style="color:red;">**advanced-driver-assistance-systems**</span>,  <span style="color:red;">**driver-assistance-systems**</span>,  <span style="color:red;">**robotics**</span>,
+
+*   [ybarancan/TopologicalLaneGraph](https://github.com/ybarancan/TopologicalLaneGraph) - Official implementation of "Topology Preserving Local Road Network Estimation from Single Onboard Camera Image" (CVPR 22) -
+
+*   [ybarancan/STSU](https://github.com/ybarancan/STSU) - Official code for "Structured Bird’s-Eye-View Traffic Scene Understanding from Onboard Images" (ICCV 2021) -
+
+*   [hustvl/VMA](https://github.com/hustvl/VMA) - A general map auto annotation framework based on MapTR, with high flexibility in terms of spatial scale and element type -
+
+*   [er-muyue/BeMapNet](https://github.com/er-muyue/BeMapNet) -  -
+
+*   [yuantianyuan01/StreamMapNet](https://github.com/yuantianyuan01/StreamMapNet) -  -
+
+*   [hustvl/MapTR](https://github.com/hustvl/MapTR) - \[ICLR'23 Spotlight & IJCV'24] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction - <span style="color:red;">**autonomous-driving**</span>,  <span style="color:red;">**bev**</span>,  <span style="color:red;">**end-to-end**</span>,  <span style="color:red;">**iclr2023**</span>,  <span style="color:red;">**online-hdmap-construction**</span>,  <span style="color:red;">**real-time**</span>,  <span style="color:red;">**shape-representation**</span>,  <span style="color:red;">**transformer**</span>,  <span style="color:red;">**vectorized-hdmap**</span>,
+
+*   [manymuch/CAMA](https://github.com/manymuch/CAMA) - Official Implementation of A Vision-Centric Approach for Static Map Element Annotation -
+
+*   [manymuch/ground\_normal\_filter](https://github.com/manymuch/ground_normal_filter) - Official implementation of: Towards Accurate Ground Plane Normal Estimation from Ego-Motion -
 
 ## Jupyter Notebook
 
