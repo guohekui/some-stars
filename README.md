@@ -140,7 +140,7 @@
 
 *   [LimHyungTae/HOV-SG](https://github.com/LimHyungTae/HOV-SG) - \[RSS2024] Official implementation of "Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation" -
 
-*   [mit-acl/ROMAN](https://github.com/mit-acl/ROMAN) - ROMAN is a view-invariant global localization method that maps open-set objects and uses the geometry, shape, and semantics of objects to find the transformation between a current pose and previously created object map. This enables loop closure between robots even when a scene is observed from opposite views. -
+*   [mit-acl/roman](https://github.com/mit-acl/roman) - ROMAN is a view-invariant global localization method that maps open-set objects and uses the geometry, shape, and semantics of objects to find the transformation between a current pose and previously created object map. This enables loop closure between robots even when a scene is observed from opposite views. -
 
 *   [AmnonDrory/LidarRegistration](https://github.com/AmnonDrory/LidarRegistration) - Project page for "Stress-Testing Point Cloud Registration on Automotive LiDAR" by Amnon Drory, Shai Avidan and Raja Giryes -
 
