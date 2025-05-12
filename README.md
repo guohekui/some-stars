@@ -160,7 +160,7 @@
 
 *   [yuantianyuan01/StreamMapNet](https://github.com/yuantianyuan01/StreamMapNet) -  -
 
-*   [hustvl/MapTR](https://github.com/hustvl/MapTR) - \[ICLR'23 Spotlight & IJCV'24] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction - <span style="color:red;">**autonomous-driving**</span>,  <span style="color:red;">**bev**</span>,  <span style="color:red;">**end-to-end**</span>,  <span style="color:red;">**iclr2023**</span>,  <span style="color:red;">**online-hdmap-construction**</span>,  <span style="color:red;">**real-time**</span>,  <span style="color:red;">**shape-representation**</span>,  <span style="color:red;">**transformer**</span>,  <span style="color:red;">**vectorized-hdmap**</span>,
+*   [hustvl/MapTR](https://github.com/hustvl/MapTR) - \[ICLR'23 Spotlight & ECCV'24 & IJCV'24] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction - <span style="color:red;">**autonomous-driving**</span>,  <span style="color:red;">**bev**</span>,  <span style="color:red;">**end-to-end**</span>,  <span style="color:red;">**iclr2023**</span>,  <span style="color:red;">**online-hdmap-construction**</span>,  <span style="color:red;">**real-time**</span>,  <span style="color:red;">**shape-representation**</span>,  <span style="color:red;">**transformer**</span>,  <span style="color:red;">**vectorized-hdmap**</span>,
 
 *   [manymuch/CAMA](https://github.com/manymuch/CAMA) - Official Implementation of A Vision-Centric Approach for Static Map Element Annotation -
 
