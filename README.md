@@ -112,8 +112,6 @@
 
 *   [kafeiyin00/LiMo-Calib](https://github.com/kafeiyin00/LiMo-Calib) - LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System -
 
-*   [dongjae0107/ELite](https://github.com/dongjae0107/ELite) - \[ICRA 2025] ELite: Ephemerality meets LiDAR-based Lifelong Mapping - <span style="color:red;">**lifelong-mapping**</span>,  <span style="color:red;">**robotics**</span>,
-
 *   [IRMVLab/CrossBEV-PR](https://github.com/IRMVLab/CrossBEV-PR) - Code for paper "CrossBEV-PR：Cross-modal Visual-LiDAR Place Recognization via BEV Feature Distillation" -
 
 *   [MIT-SPARK/Kimera-Multi-Data](https://github.com/MIT-SPARK/Kimera-Multi-Data) - A large-scale multi-robot dataset for multi-robot SLAM -
@@ -131,6 +129,8 @@
 ## Python
 
 *   [PRBonn/kiss-slam](https://github.com/PRBonn/kiss-slam) - A LiDAR SLAM system that just works - <span style="color:red;">**lidar**</span>,  <span style="color:red;">**lidar-slam**</span>,  <span style="color:red;">**mapping**</span>,  <span style="color:red;">**perception**</span>,  <span style="color:red;">**robotics**</span>,  <span style="color:red;">**slam**</span>,
+
+*   [dongjae0107/ELite](https://github.com/dongjae0107/ELite) - \[ICRA 2025] ELite: Ephemerality meets LiDAR-based Lifelong Mapping - <span style="color:red;">**lifelong-mapping**</span>,  <span style="color:red;">**robotics**</span>,
 
 *   [hovsg/HOV-SG](https://github.com/hovsg/HOV-SG) - \[RSS2024] Official implementation of "Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation" - <span style="color:red;">**3d-scene-graph**</span>,  <span style="color:red;">**natural-language-understanding**</span>,  <span style="color:red;">**open-vocabulary**</span>,  <span style="color:red;">**robot-navigation**</span>,  <span style="color:red;">**robot-planning**</span>,
 
