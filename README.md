@@ -13,6 +13,7 @@
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
+*   [Java](#java)
 *   [HTML](#html)
 *   [C](#c-1)
 
@@ -169,6 +170,10 @@
 ## Jupyter Notebook
 
 *   [KTH-RPL/DynamicMap\_Benchmark](https://github.com/KTH-RPL/DynamicMap_Benchmark) - The First Dynamic Map Removal Benchmark | Included 8 SOTA methods | Continous updating - <span style="color:red;">**autonomous-driving**</span>,  <span style="color:red;">**benchmark**</span>,  <span style="color:red;">**dataset**</span>,  <span style="color:red;">**dynamic-point-removal**</span>,  <span style="color:red;">**mapping**</span>,  <span style="color:red;">**robotics**</span>,
+
+## Java
+
+*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 -
 
 ## HTML
 
