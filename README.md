@@ -111,7 +111,7 @@
 
 *   [NSN-Hello/GeoFlow-SLAM](https://github.com/NSN-Hello/GeoFlow-SLAM) - GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics -
 
-*   [kafeiyin00/LiMo-Calib](https://github.com/kafeiyin00/LiMo-Calib) - LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System -
+*   [kafeiyin00/LiMo-Calib](https://github.com/kafeiyin00/LiMo-Calib) - \[IEEE IROS'25] LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System -
 
 *   [IRMVLab/CrossBEV-PR](https://github.com/IRMVLab/CrossBEV-PR) - Code for paper "CrossBEV-PR：Cross-modal Visual-LiDAR Place Recognization via BEV Feature Distillation" -
 
