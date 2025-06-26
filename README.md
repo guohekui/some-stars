@@ -37,6 +37,8 @@
 
 *   [Zhefan-Xu/LV-DOT](https://github.com/Zhefan-Xu/LV-DOT) - LV-DOT: LiDAR-Visual Dynamic Obstacle Detection and Tracking (C++/Python/ROS) - <span style="color:red;">**camera**</span>,  <span style="color:red;">**collision-avoidance**</span>,  <span style="color:red;">**lidar**</span>,  <span style="color:red;">**object-detection**</span>,  <span style="color:red;">**object-tracking**</span>,  <span style="color:red;">**perception**</span>,  <span style="color:red;">**robotics**</span>,  <span style="color:red;">**ros**</span>,
 
+*   [kafeiyin00/LiMo-Calib](https://github.com/kafeiyin00/LiMo-Calib) - \[IEEE IROS'25] LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System -
+
 *   [kafeiyin00/UA-MPC](https://github.com/kafeiyin00/UA-MPC) - \[IEEE RAL'25 & IROS'25] UA-MPC: Uncertainty-Aware Model Predictive Control for Motorized LiDAR Odometry -
 
 *   [792864625/AroundViewMonitor-China-Developer](https://github.com/792864625/AroundViewMonitor-China-Developer) - Around View Monitor Algorithm Pipeline -
@@ -110,8 +112,6 @@
 *   [M-Evanovic/LL-Localizer](https://github.com/M-Evanovic/LL-Localizer) - LL-Localizer: A Life-Long Localization System based on Dynamic i-Octree -
 
 *   [NSN-Hello/GeoFlow-SLAM](https://github.com/NSN-Hello/GeoFlow-SLAM) - GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics -
-
-*   [kafeiyin00/LiMo-Calib](https://github.com/kafeiyin00/LiMo-Calib) - \[IEEE IROS'25] LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System -
 
 *   [IRMVLab/CrossBEV-PR](https://github.com/IRMVLab/CrossBEV-PR) - Code for paper "CrossBEV-PR：Cross-modal Visual-LiDAR Place Recognization via BEV Feature Distillation" -
 
