@@ -97,8 +97,6 @@
 
 *   [mpkuse/edge\_alignment](https://github.com/mpkuse/edge_alignment) - Ros package for Edge Alignment with Ceres solver - <span style="color:red;">**ceres-solver**</span>,  <span style="color:red;">**visual-odometry**</span>,
 
-*   [cvg/limap](https://github.com/cvg/limap) - A toolbox for mapping and localization with line features. - <span style="color:red;">**3d-reconstruction**</span>,  <span style="color:red;">**bundle-adjustment**</span>,  <span style="color:red;">**line-detection**</span>,  <span style="color:red;">**line-mapping**</span>,  <span style="color:red;">**line-matchng**</span>,  <span style="color:red;">**multi-view-geometry**</span>,  <span style="color:red;">**vanishing-points**</span>,  <span style="color:red;">**visual-localization**</span>,
-
 *   [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - 🚀 AirVO upgrades to AirSLAM \[TRO]🚀 - <span style="color:red;">**odometry**</span>,  <span style="color:red;">**slam**</span>,  <span style="color:red;">**superglue**</span>,  <span style="color:red;">**superpoint**</span>,  <span style="color:red;">**visual-odometry**</span>,  <span style="color:red;">**visual-slam**</span>,
 
 *   [linyicheng1/LET-NET](https://github.com/linyicheng1/LET-NET) - LET-NET: A lightweight CNN network for sparse corners extraction and tracking -
@@ -156,6 +154,8 @@
 *   [ybarancan/STSU](https://github.com/ybarancan/STSU) - Official code for "Structured Bird’s-Eye-View Traffic Scene Understanding from Onboard Images" (ICCV 2021) -
 
 *   [hustvl/VMA](https://github.com/hustvl/VMA) - A general map auto annotation framework based on MapTR, with high flexibility in terms of spatial scale and element type -
+
+*   [cvg/limap](https://github.com/cvg/limap) - A toolbox for mapping and localization with line features. - <span style="color:red;">**3d-reconstruction**</span>,  <span style="color:red;">**bundle-adjustment**</span>,  <span style="color:red;">**line-detection**</span>,  <span style="color:red;">**line-mapping**</span>,  <span style="color:red;">**line-matchng**</span>,  <span style="color:red;">**multi-view-geometry**</span>,  <span style="color:red;">**vanishing-points**</span>,  <span style="color:red;">**visual-localization**</span>,
 
 *   [er-muyue/BeMapNet](https://github.com/er-muyue/BeMapNet) -  -
 
