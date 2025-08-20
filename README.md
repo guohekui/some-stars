@@ -109,8 +109,6 @@
 
 *   [M-Evanovic/LL-Localizer](https://github.com/M-Evanovic/LL-Localizer) - LL-Localizer: A Life-Long Localization System based on Dynamic i-Octree -
 
-*   [NSN-Hello/GeoFlow-SLAM](https://github.com/NSN-Hello/GeoFlow-SLAM) - GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics -
-
 *   [IRMVLab/CrossBEV-PR](https://github.com/IRMVLab/CrossBEV-PR) - Code for paper "CrossBEV-PR：Cross-modal Visual-LiDAR Place Recognization via BEV Feature Distillation" -
 
 *   [MIT-SPARK/Kimera-Multi-Data](https://github.com/MIT-SPARK/Kimera-Multi-Data) - A large-scale multi-robot dataset for multi-robot SLAM -
