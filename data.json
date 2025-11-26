@@ -2157,13 +2157,13 @@
       "url": "https://api.github.com/repos/GrowingGit/GitHub-Chinese-Top-Charts",
       "languages_url": "https://api.github.com/repos/GrowingGit/GitHub-Chinese-Top-Charts/languages",
       "created_at": "2019-09-05T03:01:56Z",
-      "updated_at": "2025-11-25T18:05:17Z",
+      "updated_at": "2025-11-26T01:02:06Z",
       "git_url": "git://github.com/GrowingGit/GitHub-Chinese-Top-Charts.git",
       "ssh_url": "git@github.com:GrowingGit/GitHub-Chinese-Top-Charts.git",
       "clone_url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts.git",
       "homepage": "",
-      "stargazers_count": 103759,
-      "watchers_count": 103759,
+      "stargazers_count": 103761,
+      "watchers_count": 103761,
       "language": "Java",
       "topics": []
     }
@@ -2221,13 +2221,13 @@
       "url": "https://api.github.com/repos/xuankuzcr/LIV_handhold",
       "languages_url": "https://api.github.com/repos/xuankuzcr/LIV_handhold/languages",
       "created_at": "2023-11-06T11:08:40Z",
-      "updated_at": "2025-11-25T11:08:08Z",
+      "updated_at": "2025-11-25T18:43:21Z",
       "git_url": "git://github.com/xuankuzcr/LIV_handhold.git",
       "ssh_url": "git@github.com:xuankuzcr/LIV_handhold.git",
       "clone_url": "https://github.com/xuankuzcr/LIV_handhold.git",
       "homepage": "https://zhuanlan.zhihu.com/p/670136001",
-      "stargazers_count": 674,
-      "watchers_count": 674,
+      "stargazers_count": 675,
+      "watchers_count": 675,
       "language": "C",
       "topics": []
     }
