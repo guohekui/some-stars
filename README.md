@@ -81,7 +81,7 @@
 
 *   [ariarobotics/clipperp](https://github.com/ariarobotics/clipperp) - Fast maximal clique finder and robust registration library  -
 
-*   [be2rlab/rvwo](https://github.com/be2rlab/rvwo) - A Robust Visual-Wheel SLAM System for Mobile Robots in Dynamic Environments -
+*   [be2rlab/rvwo](https://github.com/be2rlab/rvwo) - \[IROS 23] A Robust Visual-Wheel SLAM System for Mobile Robots in Dynamic Environments -
 
 *   [hku-mars/btc\_descriptor](https://github.com/hku-mars/btc_descriptor) -  -
 
