@@ -73,7 +73,7 @@
 
 *   [leggedrobotics/graph\_msf](https://github.com/leggedrobotics/graph_msf) - A graph-based multi-sensor fusion framework. It can be used to fuse various relative or absolute measurments with IMU readings in real-time. - <span style="color:red;">**factor-graph**</span>,  <span style="color:red;">**gnss**</span>,  <span style="color:red;">**imu**</span>,  <span style="color:red;">**lidar**</span>,  <span style="color:red;">**localization**</span>,  <span style="color:red;">**sensor-fusion**</span>,  <span style="color:red;">**state-estimation**</span>,
 
-*   [chengyangkj/Ros\_Qt5\_Gui\_App](https://github.com/chengyangkj/Ros_Qt5_Gui_App) - ROS human computer interface based on Qt5(基于Qt5的ROS人机交互界面) -
+*   [chengyangkj/Ros\_Qt5\_Gui\_App](https://github.com/chengyangkj/Ros_Qt5_Gui_App) - ROS human computer interface based on Qt5(基于Qt5的ROS人机交软件) -
 
 *   [url-kaist/TRAVEL](https://github.com/url-kaist/TRAVEL) - Traversable ground and above-ground object segmentation using graph representation of 3D LiDAR scans -
 
