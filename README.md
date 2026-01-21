@@ -10,8 +10,8 @@
 
 *   [C++](#c)
 *   [Makefile](#makefile)
-*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
+*   [miscellaneous](#miscellaneous)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Java](#java)
 *   [HTML](#html)
@@ -105,24 +105,6 @@
 
 *   [jianzhuozhuTHU/putn](https://github.com/jianzhuozhuTHU/putn) -  -
 
-## miscellaneous
-
-*   [M-Evanovic/LL-Localizer](https://github.com/M-Evanovic/LL-Localizer) - LL-Localizer: A Life-Long Localization System based on Dynamic i-Octree -
-
-*   [IRMVLab/CrossBEV-PR](https://github.com/IRMVLab/CrossBEV-PR) - Code for paper "CrossBEV-PR：Cross-modal Visual-LiDAR Place Recognization via BEV Feature Distillation" -
-
-*   [MIT-SPARK/Kimera-Multi-Data](https://github.com/MIT-SPARK/Kimera-Multi-Data) - A large-scale multi-robot dataset for multi-robot SLAM -
-
-*   [qxiaofan/awesome-slam-datasets](https://github.com/qxiaofan/awesome-slam-datasets) - SLAM常见数据集汇总 -
-
-*   [hwan0806/Awesome-LiDAR-Mapping](https://github.com/hwan0806/Awesome-LiDAR-Mapping) - Collection of Papers with Codes: LiDAR Odometry/SLAM, Dynamic Object Removal, and Multiple Map Merging -
-
-*   [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) - 💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩 - <span style="color:red;">**arxiv**</span>,  <span style="color:red;">**audio-driven**</span>,  <span style="color:red;">**paper**</span>,  <span style="color:red;">**synthesis**</span>,  <span style="color:red;">**talking-face-generation**</span>,  <span style="color:red;">**talking-head**</span>,  <span style="color:red;">**talking-head-video-generation**</span>,
-
-*   [jinyummiao/map-in-mono-reloc](https://github.com/jinyummiao/map-in-mono-reloc) - a paper list of visual re-localization algorithms -
-
-*   [Gatsby23/vins-wheels](https://github.com/Gatsby23/vins-wheels) - VIO system incorporating wheel encoders -
-
 ## Python
 
 *   [PRBonn/kiss-slam](https://github.com/PRBonn/kiss-slam) - A LiDAR SLAM system that just works - <span style="color:red;">**lidar**</span>,  <span style="color:red;">**lidar-slam**</span>,  <span style="color:red;">**mapping**</span>,  <span style="color:red;">**perception**</span>,  <span style="color:red;">**robotics**</span>,  <span style="color:red;">**slam**</span>,
@@ -164,6 +146,22 @@
 *   [manymuch/CAMA](https://github.com/manymuch/CAMA) - Official Implementation of A Vision-Centric Approach for Static Map Element Annotation -
 
 *   [manymuch/ground\_normal\_filter](https://github.com/manymuch/ground_normal_filter) - Official implementation of: Towards Accurate Ground Plane Normal Estimation from Ego-Motion -
+
+## miscellaneous
+
+*   [IRMVLab/CrossBEV-PR](https://github.com/IRMVLab/CrossBEV-PR) - Code for paper "CrossBEV-PR：Cross-modal Visual-LiDAR Place Recognization via BEV Feature Distillation" -
+
+*   [MIT-SPARK/Kimera-Multi-Data](https://github.com/MIT-SPARK/Kimera-Multi-Data) - A large-scale multi-robot dataset for multi-robot SLAM -
+
+*   [qxiaofan/awesome-slam-datasets](https://github.com/qxiaofan/awesome-slam-datasets) - SLAM常见数据集汇总 -
+
+*   [hwan0806/Awesome-LiDAR-Mapping](https://github.com/hwan0806/Awesome-LiDAR-Mapping) - Collection of Papers with Codes: LiDAR Odometry/SLAM, Dynamic Object Removal, and Multiple Map Merging -
+
+*   [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) - 💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩 - <span style="color:red;">**arxiv**</span>,  <span style="color:red;">**audio-driven**</span>,  <span style="color:red;">**paper**</span>,  <span style="color:red;">**synthesis**</span>,  <span style="color:red;">**talking-face-generation**</span>,  <span style="color:red;">**talking-head**</span>,  <span style="color:red;">**talking-head-video-generation**</span>,
+
+*   [jinyummiao/map-in-mono-reloc](https://github.com/jinyummiao/map-in-mono-reloc) - a paper list of visual re-localization algorithms -
+
+*   [Gatsby23/vins-wheels](https://github.com/Gatsby23/vins-wheels) - VIO system incorporating wheel encoders -
 
 ## Jupyter Notebook
 
