@@ -97,7 +97,7 @@
 
 *   [mpkuse/edge\_alignment](https://github.com/mpkuse/edge_alignment) - Ros package for Edge Alignment with Ceres solver - <span style="color:red;">**ceres-solver**</span>,  <span style="color:red;">**visual-odometry**</span>,
 
-*   [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - 🚀 AirVO upgrades to AirSLAM \[TRO]🚀 - <span style="color:red;">**odometry**</span>,  <span style="color:red;">**slam**</span>,  <span style="color:red;">**superglue**</span>,  <span style="color:red;">**superpoint**</span>,  <span style="color:red;">**visual-odometry**</span>,  <span style="color:red;">**visual-slam**</span>,
+*   [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - \[TRO 2025] AirVO upgrades to AirSLAM - <span style="color:red;">**odometry**</span>,  <span style="color:red;">**slam**</span>,  <span style="color:red;">**superglue**</span>,  <span style="color:red;">**superpoint**</span>,  <span style="color:red;">**visual-odometry**</span>,  <span style="color:red;">**visual-slam**</span>,
 
 *   [linyicheng1/LET-NET](https://github.com/linyicheng1/LET-NET) - LET-NET: A lightweight CNN network for sparse corners extraction and tracking -
 
