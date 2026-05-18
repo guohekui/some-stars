@@ -75,7 +75,7 @@
 
 *   [chengyangkj/Ros\_Qt5\_Gui\_App](https://github.com/chengyangkj/Ros_Qt5_Gui_App) - ROS human computer interface based on Qt5(基于Qt5的ROS人机交软件) -
 
-*   [url-kaist/TRAVEL](https://github.com/url-kaist/TRAVEL) - Traversable ground and above-ground object segmentation using graph representation of 3D LiDAR scans -
+*   [url-kaist/TRAVEL](https://github.com/url-kaist/TRAVEL) - \[RA-L] Traversable ground and above-ground object segmentation using graph representation of 3D LiDAR scans - <span style="color:red;">**conventional**</span>,  <span style="color:red;">**instance-segmentation**</span>,  <span style="color:red;">**lidar**</span>,  <span style="color:red;">**point-cloud-segmentation**</span>,  <span style="color:red;">**pointcloud**</span>,  <span style="color:red;">**range-image**</span>,  <span style="color:red;">**segmentation**</span>,
 
 *   [HKUST-Aerial-Robotics/G3Reg](https://github.com/HKUST-Aerial-Robotics/G3Reg) - A fast and robust global registration library for outdoor LiDAR point clouds. - <span style="color:red;">**registration**</span>,
 
