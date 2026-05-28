@@ -41,7 +41,7 @@
 
 *   [kafeiyin00/UA-MPC](https://github.com/kafeiyin00/UA-MPC) - \[IEEE RAL'25 & IROS'25] UA-MPC: Uncertainty-Aware Model Predictive Control for Motorized LiDAR Odometry -
 
-*   [792864625/AroundViewMonitor-China-Developer](https://github.com/792864625/AroundViewMonitor-China-Developer) - Around View Monitor Algorithm Pipeline -
+*   [JingyangTan/AroundViewMonitor-China-Developer](https://github.com/JingyangTan/AroundViewMonitor-China-Developer) - Around View Monitor Algorithm Pipeline -
 
 *   [IF-A-CAT/LIR-LIVO](https://github.com/IF-A-CAT/LIR-LIVO) - LIR-LIVO: A Lightweight,Robust Lidar/Vision/Inertial Odometry with Illumination-Resilient Deep Features -
 
